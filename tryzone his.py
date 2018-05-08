@@ -6,6 +6,7 @@ Created on Thu Apr 19 01:57:25 2018
 """
 import numpy as np
 import random
+import math
 #a = [(1,2,3,4),(1,3,3,3)]
 #b = [(2,3,4,6),(1,2,3,4)]
 '''
@@ -95,8 +96,41 @@ for i in range(an):
 print(agents_temp)
 '''
 
-a = [[1,23,4],[1,4,3]]
-b = [2,2,4]
-c = [0]*3
+#a = [[1,23,4],[1,4,3]]
+#b = [2,2,4]
+#c = [0]*3
+#
+#print(sum(a[]))
+import numpy as np
+import matplotlib.pyplot as plt
 
-print(sum(a[]))
+def trans2dec(set_of_tuple):
+    dec= []
+    b=0
+#    print(set_of_tuple)
+    for x in set_of_tuple:
+        b=b+1
+        a=0
+        print(b)
+        for i in range(len(x)):
+            a = a+x[i]*math.pow(2,len(x)-i-1)
+#            print(a)
+        dec.append(a)
+    
+    return dec
+def cal_mode(a):
+    counts = np.bincount(a)
+    return  np.argmax(counts)           
+    
+    
+hui = {(1,0,0,1),(0,1,0,0),(0,1,0,1),(0,1,1,1)}
+#result = trans2dec(hui)
+#print (result[1])
+#
+#print (cal_mode(result))
+result = [1,2,1,4,5,5,5]
+xstcick = np.arange(1, len(result)+1)
+plt.bar(result,xstcick,color = 'black',width = 0.4) 
+plt.title("histogram") 
+plt.show()
+
