@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.23)  9 MAY 2018 04:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.23)  9 MAY 2018 04:29
 entering extended mode
 **./SimulationDate.tex
 (SimulationDate.tex
@@ -280,23 +280,52 @@ File: CardErr50_4_1000_300.png Graphic file (type png)
 <use CardErr50_4_1000_300.png>
 Package pdftex.def Info: CardErr50_4_1000_300.png  used on input line 101.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [7 <./Sim50_4_1000_300.png> <./SimErr50_4_1000_300.png>] [8 <./Card50_4_1000_3
-00.png> <./CardErr50_4_1000_300.png>] (SimulationDate.aux) ) 
+ [7 <./Sim50_4_1000_300.png> <./SimErr50_4_1000_300.png>]
+<agt50_4_1000_800.png, id=56, 433.62pt x 289.08pt>
+File: agt50_4_1000_800.png Graphic file (type png)
+<use agt50_4_1000_800.png>
+Package pdftex.def Info: agt50_4_1000_800.png  used on input line 108.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [8 <./Card50_4_1000_300.png> <./CardErr50_4_1000_300.png>]
+<Sim50_4_1000_800.png, id=62, 433.62pt x 289.08pt>
+File: Sim50_4_1000_800.png Graphic file (type png)
+<use Sim50_4_1000_800.png>
+Package pdftex.def Info: Sim50_4_1000_800.png  used on input line 114.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<SimErr50_4_1000_800.png, id=63, 433.62pt x 289.08pt>
+File: SimErr50_4_1000_800.png Graphic file (type png)
+<use SimErr50_4_1000_800.png>
+Package pdftex.def Info: SimErr50_4_1000_800.png  used on input line 120.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<Card50_4_1000_800.png, id=64, 433.62pt x 289.08pt>
+File: Card50_4_1000_800.png Graphic file (type png)
+<use Card50_4_1000_800.png>
+Package pdftex.def Info: Card50_4_1000_800.png  used on input line 126.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [9 <./agt50_4_1000_800.png> <./Sim50_4_1000_800.png>]
+<CardErr50_4_1000_800.png, id=70, 433.62pt x 289.08pt>
+File: CardErr50_4_1000_800.png Graphic file (type png)
+<use CardErr50_4_1000_800.png>
+Package pdftex.def Info: CardErr50_4_1000_800.png  used on input line 132.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+
+[10 <./SimErr50_4_1000_800.png> <./Card50_4_1000_800.png>] [11 <./CardErr50_4_1
+000_800.png>] (SimulationDate.aux) ) 
 Here is how much of TeX's memory you used:
- 2067 strings out of 493307
- 30446 string characters out of 3138822
- 91091 words of memory out of 3000000
- 5600 multiletter control sequences out of 15000+200000
+ 2097 strings out of 493307
+ 31179 string characters out of 3138822
+ 91139 words of memory out of 3000000
+ 5625 multiletter control sequences out of 15000+200000
  7587 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,25p,283b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmr12.pfb>
-Output written on SimulationDate.pdf (8 pages, 2083420 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr12.pfb>
+Output written on SimulationDate.pdf (11 pages, 2772338 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 91 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
