@@ -1,0 +1,302 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.23)  9 MAY 2018 04:13
+entering extended mode
+**./SimulationDate.tex
+(SimulationDate.tex
+LaTeX2e <2017-04-15>
+Babel <3.16> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count90
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+) (SimulationDate.aux)
+\openout1 = `SimulationDate.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen113
+\scratchbox=\box28
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen114
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks19
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 672.50832pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=672.50832pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+<agt50_3_800_100.png, id=1, 433.62pt x 289.08pt>
+File: agt50_3_800_100.png Graphic file (type png)
+<use agt50_3_800_100.png>
+Package pdftex.def Info: agt50_3_800_100.png  used on input line 14.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<Sim50_3_800_100.png, id=3, 433.62pt x 289.08pt>
+File: Sim50_3_800_100.png Graphic file (type png)
+<use Sim50_3_800_100.png>
+Package pdftex.def Info: Sim50_3_800_100.png  used on input line 20.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<SimErr50_3_800_100.png, id=4, 433.62pt x 289.08pt>
+File: SimErr50_3_800_100.png Graphic file (type png)
+<use SimErr50_3_800_100.png>
+Package pdftex.def Info: SimErr50_3_800_100.png  used on input line 26.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+[1
+
+{C:/Users/liuzx/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./agt50_3_8
+00_100.png>]
+<Card50_3_800_100.png, id=13, 433.62pt x 289.08pt>
+File: Card50_3_800_100.png Graphic file (type png)
+<use Card50_3_800_100.png>
+Package pdftex.def Info: Card50_3_800_100.png  used on input line 32.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<CardErr50_3_800_100.png, id=14, 433.62pt x 289.08pt>
+File: CardErr50_3_800_100.png Graphic file (type png)
+<use CardErr50_3_800_100.png>
+Package pdftex.def Info: CardErr50_3_800_100.png  used on input line 38.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [2 <./Sim50_3_800_100.png> <./SimErr50_3_800_100.png>]
+<agt50_4_1000_100.png, id=20, 433.62pt x 289.08pt>
+File: agt50_4_1000_100.png Graphic file (type png)
+<use agt50_4_1000_100.png>
+Package pdftex.def Info: agt50_4_1000_100.png  used on input line 46.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [3 <./Card50_3_800_100.png> <./CardErr50_3_800_100.png>]
+<Sim50_4_1000_100.png, id=26, 433.62pt x 289.08pt>
+File: Sim50_4_1000_100.png Graphic file (type png)
+<use Sim50_4_1000_100.png>
+Package pdftex.def Info: Sim50_4_1000_100.png  used on input line 52.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<SimErr50_4_1000_100.png, id=27, 433.62pt x 289.08pt>
+File: SimErr50_4_1000_100.png Graphic file (type png)
+<use SimErr50_4_1000_100.png>
+Package pdftex.def Info: SimErr50_4_1000_100.png  used on input line 58.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<Card50_4_1000_100.png, id=28, 433.62pt x 289.08pt>
+File: Card50_4_1000_100.png Graphic file (type png)
+<use Card50_4_1000_100.png>
+Package pdftex.def Info: Card50_4_1000_100.png  used on input line 64.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [4 <./agt50_4_1000_100.png> <./Sim50_4_1000_100.png>]
+<CardErr50_4_1000_100.png, id=34, 433.62pt x 289.08pt>
+File: CardErr50_4_1000_100.png Graphic file (type png)
+<use CardErr50_4_1000_100.png>
+Package pdftex.def Info: CardErr50_4_1000_100.png  used on input line 70.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [5 <./SimErr50_4_1000_100.png> <./Card50_4_1000_100.png>]
+<agt50_4_1000_300.png, id=40, 433.62pt x 289.08pt>
+File: agt50_4_1000_300.png Graphic file (type png)
+<use agt50_4_1000_300.png>
+Package pdftex.def Info: agt50_4_1000_300.png  used on input line 77.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<Sim50_4_1000_300.png, id=41, 433.62pt x 289.08pt>
+File: Sim50_4_1000_300.png Graphic file (type png)
+<use Sim50_4_1000_300.png>
+Package pdftex.def Info: Sim50_4_1000_300.png  used on input line 83.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<SimErr50_4_1000_300.png, id=42, 433.62pt x 289.08pt>
+File: SimErr50_4_1000_300.png Graphic file (type png)
+<use SimErr50_4_1000_300.png>
+Package pdftex.def Info: SimErr50_4_1000_300.png  used on input line 89.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [6 <./CardErr50_4_1000_100.png> <./agt50_4_1000_300.png>]
+<Card50_4_1000_300.png, id=48, 433.62pt x 289.08pt>
+File: Card50_4_1000_300.png Graphic file (type png)
+<use Card50_4_1000_300.png>
+Package pdftex.def Info: Card50_4_1000_300.png  used on input line 95.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<CardErr50_4_1000_300.png, id=49, 433.62pt x 289.08pt>
+File: CardErr50_4_1000_300.png Graphic file (type png)
+<use CardErr50_4_1000_300.png>
+Package pdftex.def Info: CardErr50_4_1000_300.png  used on input line 101.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [7 <./Sim50_4_1000_300.png> <./SimErr50_4_1000_300.png>] [8 <./Card50_4_1000_3
+00.png> <./CardErr50_4_1000_300.png>] (SimulationDate.aux) ) 
+Here is how much of TeX's memory you used:
+ 2067 strings out of 493307
+ 30446 string characters out of 3138822
+ 91091 words of memory out of 3000000
+ 5600 multiletter control sequences out of 15000+200000
+ 7587 words of font info for 27 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,25p,283b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr12.pfb>
+Output written on SimulationDate.pdf (8 pages, 2083420 bytes).
+PDF statistics:
+ 72 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
