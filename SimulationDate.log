@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.23)  9 MAY 2018 04:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.23)  9 MAY 2018 17:13
 entering extended mode
 **./SimulationDate.tex
 (SimulationDate.tex
@@ -191,141 +191,242 @@ G,.JBIG2,.JB2,.eps]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 11.
+(Font)              <12> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
+(Font)              <8> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
-<agt50_3_800_100.png, id=1, 433.62pt x 289.08pt>
-File: agt50_3_800_100.png Graphic file (type png)
-<use agt50_3_800_100.png>
-Package pdftex.def Info: agt50_3_800_100.png  used on input line 14.
+(Font)              <6> on input line 12.
+<figs/agt50_3_800_100.png, id=1, 433.62pt x 289.08pt>
+File: figs/agt50_3_800_100.png Graphic file (type png)
+<use figs/agt50_3_800_100.png>
+Package pdftex.def Info: figs/agt50_3_800_100.png  used on input line 15.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<Sim50_3_800_100.png, id=3, 433.62pt x 289.08pt>
-File: Sim50_3_800_100.png Graphic file (type png)
-<use Sim50_3_800_100.png>
-Package pdftex.def Info: Sim50_3_800_100.png  used on input line 20.
+<figs/Sim50_3_800_100.png, id=3, 433.62pt x 289.08pt>
+File: figs/Sim50_3_800_100.png Graphic file (type png)
+<use figs/Sim50_3_800_100.png>
+Package pdftex.def Info: figs/Sim50_3_800_100.png  used on input line 21.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<SimErr50_3_800_100.png, id=4, 433.62pt x 289.08pt>
-File: SimErr50_3_800_100.png Graphic file (type png)
-<use SimErr50_3_800_100.png>
-Package pdftex.def Info: SimErr50_3_800_100.png  used on input line 26.
+<figs/SimErr50_3_800_100.png, id=4, 433.62pt x 289.08pt>
+File: figs/SimErr50_3_800_100.png Graphic file (type png)
+<use figs/SimErr50_3_800_100.png>
+Package pdftex.def Info: figs/SimErr50_3_800_100.png  used on input line 27.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
 [1
 
-{C:/Users/liuzx/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./agt50_3_8
-00_100.png>]
-<Card50_3_800_100.png, id=13, 433.62pt x 289.08pt>
-File: Card50_3_800_100.png Graphic file (type png)
-<use Card50_3_800_100.png>
-Package pdftex.def Info: Card50_3_800_100.png  used on input line 32.
+{C:/Users/liuzx/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figs/agt5
+0_3_800_100.png>]
+<figs/Card50_3_800_100.png, id=13, 433.62pt x 289.08pt>
+File: figs/Card50_3_800_100.png Graphic file (type png)
+<use figs/Card50_3_800_100.png>
+Package pdftex.def Info: figs/Card50_3_800_100.png  used on input line 33.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<CardErr50_3_800_100.png, id=14, 433.62pt x 289.08pt>
-File: CardErr50_3_800_100.png Graphic file (type png)
-<use CardErr50_3_800_100.png>
-Package pdftex.def Info: CardErr50_3_800_100.png  used on input line 38.
+<figs/CardErr50_3_800_100.png, id=14, 433.62pt x 289.08pt>
+File: figs/CardErr50_3_800_100.png Graphic file (type png)
+<use figs/CardErr50_3_800_100.png>
+Package pdftex.def Info: figs/CardErr50_3_800_100.png  used on input line 39.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [2 <./Sim50_3_800_100.png> <./SimErr50_3_800_100.png>]
-<agt50_4_1000_100.png, id=20, 433.62pt x 289.08pt>
-File: agt50_4_1000_100.png Graphic file (type png)
-<use agt50_4_1000_100.png>
-Package pdftex.def Info: agt50_4_1000_100.png  used on input line 46.
+ [2 <./figs/Sim50_3_800_100.png> <./figs/SimErr50_3_800_100.png>]
+<figs/agt50_4_1000_100.png, id=20, 433.62pt x 289.08pt>
+File: figs/agt50_4_1000_100.png Graphic file (type png)
+<use figs/agt50_4_1000_100.png>
+Package pdftex.def Info: figs/agt50_4_1000_100.png  used on input line 47.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [3 <./Card50_3_800_100.png> <./CardErr50_3_800_100.png>]
-<Sim50_4_1000_100.png, id=26, 433.62pt x 289.08pt>
-File: Sim50_4_1000_100.png Graphic file (type png)
-<use Sim50_4_1000_100.png>
-Package pdftex.def Info: Sim50_4_1000_100.png  used on input line 52.
+ [3 <./figs/Card50_3_800_100.png> <./figs/CardErr50_3_800_100.png>]
+<figs/Sim50_4_1000_100.png, id=26, 433.62pt x 289.08pt>
+File: figs/Sim50_4_1000_100.png Graphic file (type png)
+<use figs/Sim50_4_1000_100.png>
+Package pdftex.def Info: figs/Sim50_4_1000_100.png  used on input line 53.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<SimErr50_4_1000_100.png, id=27, 433.62pt x 289.08pt>
-File: SimErr50_4_1000_100.png Graphic file (type png)
-<use SimErr50_4_1000_100.png>
-Package pdftex.def Info: SimErr50_4_1000_100.png  used on input line 58.
+<figs/SimErr50_4_1000_100.png, id=27, 433.62pt x 289.08pt>
+File: figs/SimErr50_4_1000_100.png Graphic file (type png)
+<use figs/SimErr50_4_1000_100.png>
+Package pdftex.def Info: figs/SimErr50_4_1000_100.png  used on input line 59.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<Card50_4_1000_100.png, id=28, 433.62pt x 289.08pt>
-File: Card50_4_1000_100.png Graphic file (type png)
-<use Card50_4_1000_100.png>
-Package pdftex.def Info: Card50_4_1000_100.png  used on input line 64.
-(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [4 <./agt50_4_1000_100.png> <./Sim50_4_1000_100.png>]
-<CardErr50_4_1000_100.png, id=34, 433.62pt x 289.08pt>
-File: CardErr50_4_1000_100.png Graphic file (type png)
-<use CardErr50_4_1000_100.png>
-Package pdftex.def Info: CardErr50_4_1000_100.png  used on input line 70.
-(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [5 <./SimErr50_4_1000_100.png> <./Card50_4_1000_100.png>]
-<agt50_4_1000_300.png, id=40, 433.62pt x 289.08pt>
-File: agt50_4_1000_300.png Graphic file (type png)
-<use agt50_4_1000_300.png>
-Package pdftex.def Info: agt50_4_1000_300.png  used on input line 77.
-(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<Sim50_4_1000_300.png, id=41, 433.62pt x 289.08pt>
-File: Sim50_4_1000_300.png Graphic file (type png)
-<use Sim50_4_1000_300.png>
-Package pdftex.def Info: Sim50_4_1000_300.png  used on input line 83.
-(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<SimErr50_4_1000_300.png, id=42, 433.62pt x 289.08pt>
-File: SimErr50_4_1000_300.png Graphic file (type png)
-<use SimErr50_4_1000_300.png>
-Package pdftex.def Info: SimErr50_4_1000_300.png  used on input line 89.
-(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [6 <./CardErr50_4_1000_100.png> <./agt50_4_1000_300.png>]
-<Card50_4_1000_300.png, id=48, 433.62pt x 289.08pt>
-File: Card50_4_1000_300.png Graphic file (type png)
-<use Card50_4_1000_300.png>
-Package pdftex.def Info: Card50_4_1000_300.png  used on input line 95.
-(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<CardErr50_4_1000_300.png, id=49, 433.62pt x 289.08pt>
-File: CardErr50_4_1000_300.png Graphic file (type png)
-<use CardErr50_4_1000_300.png>
-Package pdftex.def Info: CardErr50_4_1000_300.png  used on input line 101.
-(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [7 <./Sim50_4_1000_300.png> <./SimErr50_4_1000_300.png>]
-<agt50_4_1000_800.png, id=56, 433.62pt x 289.08pt>
-File: agt50_4_1000_800.png Graphic file (type png)
-<use agt50_4_1000_800.png>
-Package pdftex.def Info: agt50_4_1000_800.png  used on input line 108.
-(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [8 <./Card50_4_1000_300.png> <./CardErr50_4_1000_300.png>]
-<Sim50_4_1000_800.png, id=62, 433.62pt x 289.08pt>
-File: Sim50_4_1000_800.png Graphic file (type png)
-<use Sim50_4_1000_800.png>
-Package pdftex.def Info: Sim50_4_1000_800.png  used on input line 114.
-(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<SimErr50_4_1000_800.png, id=63, 433.62pt x 289.08pt>
-File: SimErr50_4_1000_800.png Graphic file (type png)
-<use SimErr50_4_1000_800.png>
-Package pdftex.def Info: SimErr50_4_1000_800.png  used on input line 120.
-(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<Card50_4_1000_800.png, id=64, 433.62pt x 289.08pt>
-File: Card50_4_1000_800.png Graphic file (type png)
-<use Card50_4_1000_800.png>
-Package pdftex.def Info: Card50_4_1000_800.png  used on input line 126.
-(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [9 <./agt50_4_1000_800.png> <./Sim50_4_1000_800.png>]
-<CardErr50_4_1000_800.png, id=70, 433.62pt x 289.08pt>
-File: CardErr50_4_1000_800.png Graphic file (type png)
-<use CardErr50_4_1000_800.png>
-Package pdftex.def Info: CardErr50_4_1000_800.png  used on input line 132.
+<figs/Card50_4_1000_100.png, id=28, 433.62pt x 289.08pt>
+File: figs/Card50_4_1000_100.png Graphic file (type png)
+<use figs/Card50_4_1000_100.png>
+Package pdftex.def Info: figs/Card50_4_1000_100.png  used on input line 65.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
 
-[10 <./SimErr50_4_1000_800.png> <./Card50_4_1000_800.png>] [11 <./CardErr50_4_1
-000_800.png>] (SimulationDate.aux) ) 
+[4 <./figs/agt50_4_1000_100.png> <./figs/Sim50_4_1000_100.png>]
+<figs/CardErr50_4_1000_100.png, id=34, 433.62pt x 289.08pt>
+File: figs/CardErr50_4_1000_100.png Graphic file (type png)
+<use figs/CardErr50_4_1000_100.png>
+Package pdftex.def Info: figs/CardErr50_4_1000_100.png  used on input line 71.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [5 <./figs/SimErr50_4_1000_100.png> <./figs/Card50_4_1000_100.png>]
+<figs/agt50_4_1000_300.png, id=40, 433.62pt x 289.08pt>
+File: figs/agt50_4_1000_300.png Graphic file (type png)
+<use figs/agt50_4_1000_300.png>
+Package pdftex.def Info: figs/agt50_4_1000_300.png  used on input line 78.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/Sim50_4_1000_300.png, id=41, 433.62pt x 289.08pt>
+File: figs/Sim50_4_1000_300.png Graphic file (type png)
+<use figs/Sim50_4_1000_300.png>
+Package pdftex.def Info: figs/Sim50_4_1000_300.png  used on input line 84.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/SimErr50_4_1000_300.png, id=42, 433.62pt x 289.08pt>
+File: figs/SimErr50_4_1000_300.png Graphic file (type png)
+<use figs/SimErr50_4_1000_300.png>
+Package pdftex.def Info: figs/SimErr50_4_1000_300.png  used on input line 90.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [6 <./figs/CardErr50_4_1000_100.png> <./figs/agt50_4_1000_300.png>]
+<figs/Card50_4_1000_300.png, id=48, 433.62pt x 289.08pt>
+File: figs/Card50_4_1000_300.png Graphic file (type png)
+<use figs/Card50_4_1000_300.png>
+Package pdftex.def Info: figs/Card50_4_1000_300.png  used on input line 96.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/CardErr50_4_1000_300.png, id=49, 433.62pt x 289.08pt>
+File: figs/CardErr50_4_1000_300.png Graphic file (type png)
+<use figs/CardErr50_4_1000_300.png>
+Package pdftex.def Info: figs/CardErr50_4_1000_300.png  used on input line 102.
+
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [7 <./figs/Sim50_4_1000_300.png> <./figs/SimErr50_4_1000_300.png>]
+<figs/agt50_4_1000_800.png, id=56, 433.62pt x 289.08pt>
+File: figs/agt50_4_1000_800.png Graphic file (type png)
+<use figs/agt50_4_1000_800.png>
+Package pdftex.def Info: figs/agt50_4_1000_800.png  used on input line 109.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [8 <./figs/Card50_4_1000_300.png> <./figs/CardErr50_4_1000_300.png>]
+<figs/Sim50_4_1000_800.png, id=62, 433.62pt x 289.08pt>
+File: figs/Sim50_4_1000_800.png Graphic file (type png)
+<use figs/Sim50_4_1000_800.png>
+Package pdftex.def Info: figs/Sim50_4_1000_800.png  used on input line 115.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/SimErr50_4_1000_800.png, id=63, 433.62pt x 289.08pt>
+File: figs/SimErr50_4_1000_800.png Graphic file (type png)
+<use figs/SimErr50_4_1000_800.png>
+Package pdftex.def Info: figs/SimErr50_4_1000_800.png  used on input line 121.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/Card50_4_1000_800.png, id=64, 433.62pt x 289.08pt>
+File: figs/Card50_4_1000_800.png Graphic file (type png)
+<use figs/Card50_4_1000_800.png>
+Package pdftex.def Info: figs/Card50_4_1000_800.png  used on input line 127.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [9 <./figs/agt50_4_1000_800.png> <./figs/Sim50_4_1000_800.png>]
+<figs/CardErr50_4_1000_800.png, id=70, 433.62pt x 289.08pt>
+File: figs/CardErr50_4_1000_800.png Graphic file (type png)
+<use figs/CardErr50_4_1000_800.png>
+Package pdftex.def Info: figs/CardErr50_4_1000_800.png  used on input line 133.
+
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [10 <./figs/SimErr50_4_1000_800.png> <./figs/Card50_4_1000_800.png>]
+<figs/agt50_4_1000_1500.png, id=76, 433.62pt x 289.08pt>
+File: figs/agt50_4_1000_1500.png Graphic file (type png)
+<use figs/agt50_4_1000_1500.png>
+Package pdftex.def Info: figs/agt50_4_1000_1500.png  used on input line 141.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/Sim50_4_1000_1500.png, id=77, 433.62pt x 289.08pt>
+File: figs/Sim50_4_1000_1500.png Graphic file (type png)
+<use figs/Sim50_4_1000_1500.png>
+Package pdftex.def Info: figs/Sim50_4_1000_1500.png  used on input line 147.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+
+[11 <./figs/CardErr50_4_1000_800.png>]
+<figs/SimErr50_4_1000_1500.png, id=82, 433.62pt x 289.08pt>
+File: figs/SimErr50_4_1000_1500.png Graphic file (type png)
+<use figs/SimErr50_4_1000_1500.png>
+Package pdftex.def Info: figs/SimErr50_4_1000_1500.png  used on input line 153.
+
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/Card50_4_1000_1500.png, id=83, 433.62pt x 289.08pt>
+File: figs/Card50_4_1000_1500.png Graphic file (type png)
+<use figs/Card50_4_1000_1500.png>
+Package pdftex.def Info: figs/Card50_4_1000_1500.png  used on input line 159.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [12 <./figs/agt50_4_1000_1500.png> <./figs/Sim50_4_1000_1500.png>]
+<figs/CardErr50_4_1000_1500.png, id=89, 433.62pt x 289.08pt>
+File: figs/CardErr50_4_1000_1500.png Graphic file (type png)
+<use figs/CardErr50_4_1000_1500.png>
+Package pdftex.def Info: figs/CardErr50_4_1000_1500.png  used on input line 165
+.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [13 <./figs/SimErr50_4_1000_1500.png> <./figs/Card50_4_1000_1500.png>]
+<figs/agt50_4_1000_1500_e2.png, id=96, 462.528pt x 339.669pt>
+File: figs/agt50_4_1000_1500_e2.png Graphic file (type png)
+<use figs/agt50_4_1000_1500_e2.png>
+Package pdftex.def Info: figs/agt50_4_1000_1500_e2.png  used on input line 173.
+
+(pdftex.def)             Requested size: 409.71692pt x 300.89989pt.
+<figs/Sim50_4_1000_1500_e2.png, id=97, 462.528pt x 339.669pt>
+File: figs/Sim50_4_1000_1500_e2.png Graphic file (type png)
+<use figs/Sim50_4_1000_1500_e2.png>
+Package pdftex.def Info: figs/Sim50_4_1000_1500_e2.png  used on input line 179.
+
+(pdftex.def)             Requested size: 409.71692pt x 300.89989pt.
+ [14 <./figs/CardErr50_4_1000_1500.png>]
+<figs/SimErr50_4_1000_1500_e2.png, id=102, 462.528pt x 339.669pt>
+File: figs/SimErr50_4_1000_1500_e2.png Graphic file (type png)
+<use figs/SimErr50_4_1000_1500_e2.png>
+Package pdftex.def Info: figs/SimErr50_4_1000_1500_e2.png  used on input line 1
+85.
+(pdftex.def)             Requested size: 409.71692pt x 300.89989pt.
+ [15 <./figs/agt50_4_1000_1500_e2.png>]
+<figs/Card50_4_1000_1500_e2.png, id=107, 462.528pt x 339.669pt>
+File: figs/Card50_4_1000_1500_e2.png Graphic file (type png)
+<use figs/Card50_4_1000_1500_e2.png>
+Package pdftex.def Info: figs/Card50_4_1000_1500_e2.png  used on input line 191
+.
+(pdftex.def)             Requested size: 409.71692pt x 300.89989pt.
+ [16 <./figs/Sim50_4_1000_1500_e2.png>]
+<figs/CardErr50_4_1000_1500_e2.png, id=112, 462.528pt x 339.669pt>
+File: figs/CardErr50_4_1000_1500_e2.png Graphic file (type png)
+<use figs/CardErr50_4_1000_1500_e2.png>
+Package pdftex.def Info: figs/CardErr50_4_1000_1500_e2.png  used on input line 
+197.
+(pdftex.def)             Requested size: 409.71692pt x 300.89989pt.
+ [17 <./figs/SimErr50_4_1000_1500_e2.png>] [18 <./figs/Card50_4_1000_1500_e2.pn
+g>]
+<figs/agt50_4_1000_1500_e3.png, id=121, 433.62pt x 289.08pt>
+File: figs/agt50_4_1000_1500_e3.png Graphic file (type png)
+<use figs/agt50_4_1000_1500_e3.png>
+Package pdftex.def Info: figs/agt50_4_1000_1500_e3.png  used on input line 205.
+
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/Sim50_4_1000_1500_e3.png, id=122, 433.62pt x 289.08pt>
+File: figs/Sim50_4_1000_1500_e3.png Graphic file (type png)
+<use figs/Sim50_4_1000_1500_e3.png>
+Package pdftex.def Info: figs/Sim50_4_1000_1500_e3.png  used on input line 211.
+
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [19 <./figs/CardErr50_4_1000_1500_e2.png>]
+<figs/SimErr50_4_1000_1500_e3.png, id=128, 433.62pt x 289.08pt>
+File: figs/SimErr50_4_1000_1500_e3.png Graphic file (type png)
+<use figs/SimErr50_4_1000_1500_e3.png>
+Package pdftex.def Info: figs/SimErr50_4_1000_1500_e3.png  used on input line 2
+17.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/Card50_4_1000_1500_e3.png, id=129, 433.62pt x 289.08pt>
+File: figs/Card50_4_1000_1500_e3.png Graphic file (type png)
+<use figs/Card50_4_1000_1500_e3.png>
+Package pdftex.def Info: figs/Card50_4_1000_1500_e3.png  used on input line 223
+.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [20 <./figs/agt50_4_1000_1500_e3.png> <./figs/Sim50_4_1000_1500_e3.png>]
+<figs/CardErr50_4_1000_1500_e3.png, id=135, 433.62pt x 289.08pt>
+File: figs/CardErr50_4_1000_1500_e3.png Graphic file (type png)
+<use figs/CardErr50_4_1000_1500_e3.png>
+Package pdftex.def Info: figs/CardErr50_4_1000_1500_e3.png  used on input line 
+229.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [21 <./figs/SimErr50_4_1000_1500_e3.png> <./figs/Card50_4_1000_1500_e3.png>] [
+22 <./figs/CardErr50_4_1000_1500_e3.png>] (SimulationDate.aux) ) 
 Here is how much of TeX's memory you used:
- 2097 strings out of 493307
- 31179 string characters out of 3138822
- 91139 words of memory out of 3000000
- 5625 multiletter control sequences out of 15000+200000
- 7587 words of font info for 27 fonts, out of 3000000 for 9000
+ 2189 strings out of 493307
+ 34368 string characters out of 3138822
+ 91289 words of memory out of 3000000
+ 5701 multiletter control sequences out of 15000+200000
+ 7894 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,25p,283b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmr12.pfb>
-Output written on SimulationDate.pdf (11 pages, 2772338 bytes).
+ 41i,6n,25p,283b,220s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on SimulationDate.pdf (22 pages, 4239114 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
+ 156 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -196,13 +196,15 @@ def text_save(content,filename,mode='a'):
     for i in range(len(content)):
         file.write(str(content[i])+'\n')
     file.close()
-
+start1 = time.time()
+#long running
+#do something other
 start = time.clock()
     
 an = 50 #Number of agents
 sn = 4  #Number of propsitions
 N = 1000 # Times of iterations 
-T = 800
+T = 2
 sim = []
 card = []
 AVEsim=[]
@@ -255,51 +257,57 @@ while j < len(stdsim):
     AVEcard_f.append(AVEcard[j])
     AVEsim_f.append(AVEsim[j])
     j = j+50
+
+end1 = time.time()
+print("Time1 used:",end1-start1)    
+    
 elapsed = (time.clock() - start)
 print("Time used:",elapsed)  
-filename ='data'+str(an)+'_'+str(sn)+'_'+str(N)+'_'+str(T)
-figurename = str(an)+'_'+str(sn)+'_'+str(N)+'_'+str(T)
+filename ='data'+str(an)+'_'+str(sn)+'_'+str(N)+'_'+str(T)+'_e3'
+figurename = str(an)+'_'+str(sn)+'_'+str(N)+'_'+str(T)+'_e3'
+
+path = 'figs/'
 
 plt.figure(1)
 plt.plot(AVEsim)
-plt.xlabel('Similarity')
-plt.ylabel('Iterations')
+plt.ylabel('Similarity')
+plt.xlabel('Iterations')
 plt.title('Similarity-Iteration')
 #plt.legend()
-plt.savefig('Sim'+figurename+'.png',dpi = 600)
+plt.savefig(path+'Sim'+figurename+'.png',dpi = 600)
 plt.show()
 plt.figure(2)
 plt.plot(AVEsim,color = 'brown')
 plt.errorbar(index, AVEsim_f, yerr = stdsim_f, fmt ='o',color = 'brown')
-plt.xlabel('Similarity')
-plt.ylabel('Iterations')
+plt.ylabel('Similarity')
+plt.xlabel('Iterations')
 plt.title('Similarity-Iteration with errorbar')
 #plt.legend()
-plt.savefig('SimErr'+figurename+'.png',dpi = 600)
+plt.savefig(path+'SimErr'+figurename+'.png',dpi = 600)
 plt.show()
 plt.figure(3)
 plt.plot(AVEcard)
-plt.xlabel('Cardinality')
-plt.ylabel('Iterations')
+plt.ylabel('Cardinality')
+plt.xlabel('Iterations')
 plt.title('Cardinality-Iteration')
 #plt.legend()
-plt.savefig('Card'+figurename+'.png',dpi = 600)
+plt.savefig(path+'Card'+figurename+'.png',dpi = 600)
 plt.show()
 plt.figure(4)
 plt.plot(AVEcard,color = 'brown')
 plt.errorbar(index, AVEcard_f, yerr = stdcard_f, fmt ='o',color = 'brown')
-plt.xlabel('Cardinality')
-plt.ylabel('Iterations')
+plt.ylabel('Cardinality')
+plt.xlabel('Iterations')
 plt.title('Cardinality-Iteration with errorbar')
 #plt.legend()
-plt.savefig('CardErr'+figurename+'.png',dpi = 600)
+plt.savefig(path+'CardErr'+figurename+'.png',dpi = 600)
 plt.show()
 plt.figure(5)
 plt.bar(xaxis,countagt,color = 'black',width = 0.4) 
 plt.xlabel('Agents Number')
 plt.ylabel('Times')
 plt.title("Times of covergence") 
-plt.savefig('agt'+figurename+'.png',dpi = 600)
+plt.savefig(path+'agt'+figurename+'.png',dpi = 600)
 plt.show()
 text_save([AVEsim, AVEcard, stdsim_f,stdcard_f,countagt,elapsed],filename,mode='a')
 f= open(filename, 'wb')
