@@ -104,31 +104,37 @@ print(agents_temp)
 import numpy as np
 import matplotlib.pyplot as plt
 
-def trans2dec(set_of_tuple):
+def deleteDuplicatedElementFromList(listx):
+        resultList = []
+        for item in listx:
+                if not item in resultList:
+                        resultList.append(item)
+        return resultList
+
+def trans2dec(list_set_of_tuple):
     dec= []
-    b=0
+    for index in range(len(list_set_of_tuple)):# range(len(list_set_of_tuple)):
 #    print(set_of_tuple)
-    for x in set_of_tuple:
-        b=b+1
-        a=0
-        print(b)
-        for i in range(len(x)):
-            a = a+x[i]*math.pow(2,len(x)-i-1)
+        for x in list_set_of_tuple[index]:
+            a=0
+            for i in range(len(x)):
+                a = a+x[i]*math.pow(2,len(x)-i-1)
 #            print(a)
-        dec.append(a)
+            dec.append(a)
     
-    return dec
-def cal_mode(a):
-    counts = np.bincount(a)
-    return  np.argmax(counts)           
+    return dec 
+#def cal_mode(a):
+#    counts = np.bincount(a)
+#    return  np.argmax(counts)           
     
     
-hui = {(1,0,0,1),(0,1,0,0),(0,1,0,1),(0,1,1,1)}
-#result = trans2dec(hui)
+hui = [{(1,0,0,1),(0,1,0,0),(0,1,0,1),(0,1,1,1)},{(1,1,0,1),(0,1,0,0),(0,1,0,1),(0,1,1,1)}]
+rr = deleteDuplicatedElementFromList(hui)
+result = trans2dec(rr)
 #print (result[1])
 #
 #print (cal_mode(result))
-result = [1,2,1,4,5,5,5]
+#result = [1,2,1,4,5,5,5]
 xstcick = np.arange(1, len(result)+1)
 plt.bar(result,xstcick,color = 'black',width = 0.4) 
 plt.title("histogram") 

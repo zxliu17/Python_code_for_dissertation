@@ -12,9 +12,9 @@ import math
 import time
 import pickle
 '''Function for hamming distance'''
-def hammingdis(x, y):  
-    vec = (x ^ y)
-    return sum (vec)  #return value is a scalar
+
+
+
 def create_world(propsition_number):
     single_agent =set()# [set()]*an # use SET as for any agents
    # agents_temp = []
@@ -310,7 +310,7 @@ plt.title("Times of covergence")
 plt.savefig(path+'agt'+figurename+'.png',dpi = 600)
 plt.show()
 text_save([AVEsim, AVEcard, stdsim_f,stdcard_f,countagt,elapsed],filename,mode='a')
-f= open(filename, 'wb')
+f= open(path+filename, 'wb')
 pickle.dump([AVEsim, AVEcard, stdsim_f,stdcard_f,countagt,elapsed], f)
 f.close()
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.23)  9 MAY 2018 17:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.23)  23 MAY 2018 01:01
 entering extended mode
 **./SimulationDate.tex
 (SimulationDate.tex
@@ -410,23 +410,230 @@ File: figs/CardErr50_4_1000_1500_e3.png Graphic file (type png)
 Package pdftex.def Info: figs/CardErr50_4_1000_1500_e3.png  used on input line 
 229.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [21 <./figs/SimErr50_4_1000_1500_e3.png> <./figs/Card50_4_1000_1500_e3.png>] [
-22 <./figs/CardErr50_4_1000_1500_e3.png>] (SimulationDate.aux) ) 
+ [21 <./figs/SimErr50_4_1000_1500_e3.png> <./figs/Card50_4_1000_1500_e3.png>]
+<figsHamm/agt50_4_1000_100_e3.png, id=141, 433.62pt x 289.08pt>
+File: figsHamm/agt50_4_1000_100_e3.png Graphic file (type png)
+<use figsHamm/agt50_4_1000_100_e3.png>
+Package pdftex.def Info: figsHamm/agt50_4_1000_100_e3.png  used on input line 2
+40.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsHamm/Sim50_4_1000_100_e3.png, id=142, 433.62pt x 289.08pt>
+File: figsHamm/Sim50_4_1000_100_e3.png Graphic file (type png)
+<use figsHamm/Sim50_4_1000_100_e3.png>
+Package pdftex.def Info: figsHamm/Sim50_4_1000_100_e3.png  used on input line 2
+46.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [22 <./figs/CardErr50_4_1000_1500_e3.png>]
+<figsHamm/SimErr50_4_1000_100_e3.png, id=147, 433.62pt x 289.08pt>
+File: figsHamm/SimErr50_4_1000_100_e3.png Graphic file (type png)
+<use figsHamm/SimErr50_4_1000_100_e3.png>
+Package pdftex.def Info: figsHamm/SimErr50_4_1000_100_e3.png  used on input lin
+e 252.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsHamm/Card50_4_1000_100_e3.png, id=148, 433.62pt x 289.08pt>
+File: figsHamm/Card50_4_1000_100_e3.png Graphic file (type png)
+<use figsHamm/Card50_4_1000_100_e3.png>
+Package pdftex.def Info: figsHamm/Card50_4_1000_100_e3.png  used on input line 
+258.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [23 <./figsHamm/agt50_4_1000_100_e3.png> <./figsHamm/Sim50_4_1000_100_e3.png>]
+<figsHamm/CardErr50_4_1000_100_e3.png, id=154, 433.62pt x 289.08pt>
+File: figsHamm/CardErr50_4_1000_100_e3.png Graphic file (type png)
+<use figsHamm/CardErr50_4_1000_100_e3.png>
+Package pdftex.def Info: figsHamm/CardErr50_4_1000_100_e3.png  used on input li
+ne 264.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsHamm/numbef50_4_1000_100_e3.png, id=155, 433.62pt x 289.08pt>
+File: figsHamm/numbef50_4_1000_100_e3.png Graphic file (type png)
+<use figsHamm/numbef50_4_1000_100_e3.png>
+Package pdftex.def Info: figsHamm/numbef50_4_1000_100_e3.png  used on input lin
+e 269.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [24 <./figsHamm/SimErr50_4_1000_100_e3.png> <./figsHamm/Card50_4_1000_100_e3.p
+ng>]
+<figsHamm/agt50_5_1200_100_3.png, id=161, 433.62pt x 289.08pt>
+File: figsHamm/agt50_5_1200_100_3.png Graphic file (type png)
+<use figsHamm/agt50_5_1200_100_3.png>
+Package pdftex.def Info: figsHamm/agt50_5_1200_100_3.png  used on input line 27
+6.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [25 <./figsHamm/CardErr50_4_1000_100_e3.png> <./figsHamm/numbef50_4_1000_100_e
+3.png>]
+<figsHamm/Sim50_5_1200_100_3.png, id=168, 433.62pt x 289.08pt>
+File: figsHamm/Sim50_5_1200_100_3.png Graphic file (type png)
+<use figsHamm/Sim50_5_1200_100_3.png>
+Package pdftex.def Info: figsHamm/Sim50_5_1200_100_3.png  used on input line 28
+2.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsHamm/SimErr50_5_1200_100_3.png, id=169, 433.62pt x 289.08pt>
+File: figsHamm/SimErr50_5_1200_100_3.png Graphic file (type png)
+<use figsHamm/SimErr50_5_1200_100_3.png>
+Package pdftex.def Info: figsHamm/SimErr50_5_1200_100_3.png  used on input line
+ 288.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsHamm/Card50_5_1200_100_3.png, id=170, 433.62pt x 289.08pt>
+File: figsHamm/Card50_5_1200_100_3.png Graphic file (type png)
+<use figsHamm/Card50_5_1200_100_3.png>
+Package pdftex.def Info: figsHamm/Card50_5_1200_100_3.png  used on input line 2
+94.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [26 <./figsHamm/agt50_5_1200_100_3.png> <./figsHamm/Sim50_5_1200_100_3.png>]
+<figsHamm/CardErr50_5_1200_100_3.png, id=176, 433.62pt x 289.08pt>
+File: figsHamm/CardErr50_5_1200_100_3.png Graphic file (type png)
+<use figsHamm/CardErr50_5_1200_100_3.png>
+Package pdftex.def Info: figsHamm/CardErr50_5_1200_100_3.png  used on input lin
+e 300.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsHamm/numbef50_5_1200_100_3.png, id=177, 433.62pt x 289.08pt>
+File: figsHamm/numbef50_5_1200_100_3.png Graphic file (type png)
+<use figsHamm/numbef50_5_1200_100_3.png>
+Package pdftex.def Info: figsHamm/numbef50_5_1200_100_3.png  used on input line
+ 305.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [27 <./figsHamm/SimErr50_5_1200_100_3.png> <./figsHamm/Card50_5_1200_100_3.png
+>]
+<figsHamm/agt50_5_1200_1000_5.png, id=183, 433.62pt x 289.08pt>
+File: figsHamm/agt50_5_1200_1000_5.png Graphic file (type png)
+<use figsHamm/agt50_5_1200_1000_5.png>
+Package pdftex.def Info: figsHamm/agt50_5_1200_1000_5.png  used on input line 3
+13.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [28 <./figsHamm/CardErr50_5_1200_100_3.png> <./figsHamm/numbef50_5_1200_100_3.
+png>]
+<figsHamm/Sim50_5_1200_1000_5.png, id=189, 433.62pt x 289.08pt>
+File: figsHamm/Sim50_5_1200_1000_5.png Graphic file (type png)
+<use figsHamm/Sim50_5_1200_1000_5.png>
+Package pdftex.def Info: figsHamm/Sim50_5_1200_1000_5.png  used on input line 3
+19.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsHamm/SimErr50_5_1200_1000_5.png, id=190, 433.62pt x 289.08pt>
+File: figsHamm/SimErr50_5_1200_1000_5.png Graphic file (type png)
+<use figsHamm/SimErr50_5_1200_1000_5.png>
+Package pdftex.def Info: figsHamm/SimErr50_5_1200_1000_5.png  used on input lin
+e 325.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsHamm/Card50_5_1200_1000_5.png, id=191, 433.62pt x 289.08pt>
+File: figsHamm/Card50_5_1200_1000_5.png Graphic file (type png)
+<use figsHamm/Card50_5_1200_1000_5.png>
+Package pdftex.def Info: figsHamm/Card50_5_1200_1000_5.png  used on input line 
+331.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+
+[29 <./figsHamm/agt50_5_1200_1000_5.png> <./figsHamm/Sim50_5_1200_1000_5.png>]
+<figsHamm/CardErr50_5_1200_1000_5.png, id=197, 433.62pt x 289.08pt>
+File: figsHamm/CardErr50_5_1200_1000_5.png Graphic file (type png)
+<use figsHamm/CardErr50_5_1200_1000_5.png>
+Package pdftex.def Info: figsHamm/CardErr50_5_1200_1000_5.png  used on input li
+ne 337.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsHamm/numbef50_5_1200_1000_5.png, id=198, 433.62pt x 289.08pt>
+File: figsHamm/numbef50_5_1200_1000_5.png Graphic file (type png)
+<use figsHamm/numbef50_5_1200_1000_5.png>
+Package pdftex.def Info: figsHamm/numbef50_5_1200_1000_5.png  used on input lin
+e 342.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+
+[30 <./figsHamm/SimErr50_5_1200_1000_5.png> <./figsHamm/Card50_5_1200_1000_5.pn
+g>]
+<figsHamm/agt100_4_1500_100_5.png, id=204, 433.62pt x 289.08pt>
+File: figsHamm/agt100_4_1500_100_5.png Graphic file (type png)
+<use figsHamm/agt100_4_1500_100_5.png>
+Package pdftex.def Info: figsHamm/agt100_4_1500_100_5.png  used on input line 3
+50.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [31 <./figsHamm/CardErr50_5_1200_1000_5.png> <./figsHamm/numbef50_5_1200_1000_
+5.png>]
+<figsHamm/Sim100_4_1500_100_5.png, id=211, 433.62pt x 289.08pt>
+File: figsHamm/Sim100_4_1500_100_5.png Graphic file (type png)
+<use figsHamm/Sim100_4_1500_100_5.png>
+Package pdftex.def Info: figsHamm/Sim100_4_1500_100_5.png  used on input line 3
+56.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsHamm/SimErr100_4_1500_100_5.png, id=212, 433.62pt x 289.08pt>
+File: figsHamm/SimErr100_4_1500_100_5.png Graphic file (type png)
+<use figsHamm/SimErr100_4_1500_100_5.png>
+Package pdftex.def Info: figsHamm/SimErr100_4_1500_100_5.png  used on input lin
+e 362.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsHamm/Card100_4_1500_100_5.png, id=213, 433.62pt x 289.08pt>
+File: figsHamm/Card100_4_1500_100_5.png Graphic file (type png)
+<use figsHamm/Card100_4_1500_100_5.png>
+Package pdftex.def Info: figsHamm/Card100_4_1500_100_5.png  used on input line 
+368.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [32 <./figsHamm/agt100_4_1500_100_5.png> <./figsHamm/Sim100_4_1500_100_5.png>]
+<figsHamm/CardErr100_4_1500_100_5.png, id=219, 433.62pt x 289.08pt>
+File: figsHamm/CardErr100_4_1500_100_5.png Graphic file (type png)
+<use figsHamm/CardErr100_4_1500_100_5.png>
+Package pdftex.def Info: figsHamm/CardErr100_4_1500_100_5.png  used on input li
+ne 374.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsHamm/numbef100_4_1500_100_5.png, id=220, 433.62pt x 289.08pt>
+File: figsHamm/numbef100_4_1500_100_5.png Graphic file (type png)
+<use figsHamm/numbef100_4_1500_100_5.png>
+Package pdftex.def Info: figsHamm/numbef100_4_1500_100_5.png  used on input lin
+e 379.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [33 <./figsHamm/SimErr100_4_1500_100_5.png> <./figsHamm/Card100_4_1500_100_5.p
+ng>] [34 <./figsHamm/CardErr100_4_1500_100_5.png> <./figsHamm/numbef100_4_1500_
+100_5.png>]
+<figsMaxHamm/agt50_4_1500_50_8.png, id=231, 433.62pt x 289.08pt>
+File: figsMaxHamm/agt50_4_1500_50_8.png Graphic file (type png)
+<use figsMaxHamm/agt50_4_1500_50_8.png>
+Package pdftex.def Info: figsMaxHamm/agt50_4_1500_50_8.png  used on input line 
+393.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsMaxHamm/Sim50_4_1500_50_8.png, id=232, 433.62pt x 289.08pt>
+File: figsMaxHamm/Sim50_4_1500_50_8.png Graphic file (type png)
+<use figsMaxHamm/Sim50_4_1500_50_8.png>
+Package pdftex.def Info: figsMaxHamm/Sim50_4_1500_50_8.png  used on input line 
+399.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsMaxHamm/SimErr50_4_1500_50_8.png, id=233, 433.62pt x 289.08pt>
+File: figsMaxHamm/SimErr50_4_1500_50_8.png Graphic file (type png)
+<use figsMaxHamm/SimErr50_4_1500_50_8.png>
+Package pdftex.def Info: figsMaxHamm/SimErr50_4_1500_50_8.png  used on input li
+ne 405.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [35 <./figsMaxHamm/agt50_4_1500_50_8.png>]
+<figsMaxHamm/Card50_4_1500_50_8.png, id=238, 433.62pt x 289.08pt>
+File: figsMaxHamm/Card50_4_1500_50_8.png Graphic file (type png)
+<use figsMaxHamm/Card50_4_1500_50_8.png>
+Package pdftex.def Info: figsMaxHamm/Card50_4_1500_50_8.png  used on input line
+ 411.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsMaxHamm/CardErr50_4_1500_50_8.png, id=239, 433.62pt x 289.08pt>
+File: figsMaxHamm/CardErr50_4_1500_50_8.png Graphic file (type png)
+<use figsMaxHamm/CardErr50_4_1500_50_8.png>
+Package pdftex.def Info: figsMaxHamm/CardErr50_4_1500_50_8.png  used on input l
+ine 417.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [36 <./figsMaxHamm/Sim50_4_1500_50_8.png> <./figsMaxHamm/SimErr50_4_1500_50_8.
+png>]
+<figsMaxHamm/numbef50_4_1500_50_8.png, id=245, 433.62pt x 289.08pt>
+File: figsMaxHamm/numbef50_4_1500_50_8.png Graphic file (type png)
+<use figsMaxHamm/numbef50_4_1500_50_8.png>
+Package pdftex.def Info: figsMaxHamm/numbef50_4_1500_50_8.png  used on input li
+ne 422.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [37 <./figsMaxHamm/Card50_4_1500_50_8.png> <./figsMaxHamm/CardErr50_4_1500_50_
+8.png>]
+[38 <./figsMaxHamm/numbef50_4_1500_50_8.png>] (SimulationDate.aux) ) 
 Here is how much of TeX's memory you used:
- 2189 strings out of 493307
- 34368 string characters out of 3138822
- 91289 words of memory out of 3000000
- 5701 multiletter control sequences out of 15000+200000
+ 2371 strings out of 493307
+ 40476 string characters out of 3138822
+ 91589 words of memory out of 3000000
+ 5851 multiletter control sequences out of 15000+200000
  7894 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,25p,283b,220s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on SimulationDate.pdf (22 pages, 4239114 bytes).
+<C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on SimulationDate.pdf (38 pages, 9741226 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
+ 269 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 326 words of extra memory for PDF output out of 10000 (max. 10000000)
 
