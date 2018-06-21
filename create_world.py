@@ -5,11 +5,12 @@ Created on Wed May  9 00:13:19 2018
 @author: liuzx
 """
 
+import math
 def create_world(propsition_number):
     single_agent =set()# [set()]*an # use SET as for any agents
    # agents_temp = []
     agent_tuple = [] # belief as tuple(tuple is unchangeable)
-    states = [0]*propsition_number #proposition as list 
+    states = [0]*propsition_number #proposition as list
     world = [] #A list of sets of tuple
     # initialise the agents
     agents_number = int(math.pow(2,propsition_number))
@@ -22,7 +23,7 @@ def create_world(propsition_number):
         agent_tuple.append(states_set)
         single_agent = set (agent_tuple)
         #print (states_set)
-        #print (single_agent)    
+        #print (single_agent)
         agent_tuple.clear()
     #print (single_agent)
         world.append(single_agent)

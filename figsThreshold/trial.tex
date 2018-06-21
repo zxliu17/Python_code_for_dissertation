@@ -1,0 +1,106 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{float}
+\title{Research Proposal}
+\author{Zixuan Liu\thanks{University of Bristol}}
+\geometry{left = 2.5cm, right = 2.5cm,top = 2.5cm}
+\usepackage{pstricks}
+\usepackage{listings}
+
+\usepackage{tikz}
+
+\usepackage{pgf}
+\usepackage[utf8]{inputenc}
+\usetikzlibrary{arrows,automata}
+\usetikzlibrary{positioning}
+
+
+\tikzset{
+	state/.style={
+		rectangle,
+		rounded corners,
+		draw=black, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+\tikzset{
+	on/.style={
+		circle,
+		draw=red, very thick,
+		inner sep=2pt,
+		fill=red!25,
+	},
+}
+
+
+\tikzset{
+	off/.style={
+		circle,
+		draw=blue, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+
+
+
+\tikzset{
+	neuron/.style={
+		rectangle,
+		rounded corners,
+		draw=black, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+
+
+
+\tikzset{
+	area/.style={
+		rectangle,
+		draw=black, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+
+
+\tikzset{
+	gc/.style={
+		rectangle,
+		rounded corners,
+		draw=red, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+
+
+\tikzset{
+	inh/.style={
+		rectangle,
+		rounded corners,
+		draw=blue, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+
+
+
+\tikzset{
+	io/.style={
+		rectangle,
+		draw=green, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+
+\begin{document}
+\include{thre_sim_minhamm2.tex}
+	
+\end{document}

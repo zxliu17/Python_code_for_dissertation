@@ -1,66 +1,75 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.23)  23 MAY 2018 01:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6700 64-bit) (preloaded format=pdflatex 2018.6.3)  21 JUN 2018 00:16
 entering extended mode
 **./SimulationDate.tex
 (SimulationDate.tex
-LaTeX2e <2017-04-15>
-Babel <3.16> and hyphenation patterns for 75 language(s) loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+LaTeX2e <2018-04-01> patch level 5
+Babel <3.20> and hyphenation patterns for 75 language(s) loaded.
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
-Package: geometry 2010/09/12 v5.6 Page Geometry
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count87
-\Gm@cntv=\count88
-\c@Gm@tempcnt=\count89
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
 \Gm@bindingoffset=\dimen105
 \Gm@wd@mp=\dimen106
 \Gm@odd@mp=\dimen107
@@ -71,68 +80,618 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks15
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+cfg"))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count90
+\c@float@type=\count91
 \float@exts=\toks16
 \float@box=\box26
 \@float@everytoks=\toks17
 \@floatcapt=\box27
-) (SimulationDate.aux)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pstricks\pstricks.
+sty"
+Package: pstricks 2018/01/06 v0.67 LaTeX wrapper for `PSTricks' (RN,HV)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\iftex\iftex.sty"
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+"
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey
+.tex"
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.st
+y"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.
+tex"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
+.tex"
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count92
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\pstrick
+s.tex"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\pst-fp.
+tex" `pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count93
+\pstFP@xia=\count94
+\pstFP@xib=\count95
+\pstFP@xfa=\count96
+\pstFP@xfb=\count97
+\pstFP@rega=\count98
+\pstFP@regb=\count99
+\pstFP@regs=\count100
+\pstFP@times=\count101
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common.tex"
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen113
+\pgfutil@tempdimb=\dimen114
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common-lists.tex"))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks23
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+ffor.code.tex"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+calc.code.tex"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+util.code.tex"
+\pgf@x=\dimen115
+\pgf@xa=\dimen116
+\pgf@xb=\dimen117
+\pgf@xc=\dimen118
+\pgf@y=\dimen119
+\pgf@ya=\dimen120
+\pgf@yb=\dimen121
+\pgf@yc=\dimen122
+\c@pgf@counta=\count102
+\c@pgf@countb=\count103
+\c@pgf@countc=\count104
+\c@pgf@countd=\count105
+\pgfutil@tempcnta=\count106
+\pgfutil@tempcntb=\count107
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+parser.code.tex"
+\pgfmath@dimen=\dimen123
+\pgfmath@count=\count108
+\pgfmath@box=\box28
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.code.tex"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.basic.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.trigonometric.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.random.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.comparison.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.base.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.round.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.misc.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.integerarithmetics.code.tex")))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+float.code.tex"
+\c@pgfmathroundto@lastzeros=\count109
+))
+\pgffor@iter=\dimen124
+\pgffor@skip=\dimen125
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+)
+\psLoopIndex=\count110
+
+`PSTricks' v2.84  <2018/05/01> (tvz,hv)
+\pst@dima=\dimen126
+\pst@dimb=\dimen127
+\pst@dimc=\dimen128
+\pst@dimd=\dimen129
+\pst@dimg=\dimen130
+\pst@dimh=\dimen131
+\pst@dimm=\dimen132
+\pst@dimn=\dimen133
+\pst@dimo=\dimen134
+\pst@dimp=\dimen135
+\pst@hbox=\box29
+\pst@ibox=\box30
+\pst@boxg=\box31
+\pst@cnta=\count111
+\pst@cntb=\count112
+\pst@cntc=\count113
+\pst@cntd=\count114
+\pst@cntg=\count115
+\pst@cnth=\count116
+\pst@cntm=\count117
+\pst@cntn=\count118
+\pst@cnto=\count119
+\pst@cntp=\count120
+\@zero=\count121
+\pst@toks=\toks29
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\pstrick
+s.con")
+\psunit=\dimen136
+\psxunit=\dimen137
+\psyunit=\dimen138
+\pst@C@@rType=\count122
+\pslinewidth=\dimen139
+\psk@startLW=\dimen140
+\psk@endLW=\dimen141
+\pst@customdefs=\toks30
+\pslinearc=\dimen142
+\pst@symbolStep=\dimen143
+\pst@symbolWidth=\dimen144
+\pst@symbolLinewidth=\dimen145
+\everypsbox=\toks31
+\psframesep=\dimen146
+\pslabelsep=\dimen147
+\sh@wgridXunit=\dimen148
+\sh@wgridYunit=\dimen149
+\pst@shift=\dimen150
+)
+File: pstricks.tex 2018/05/01 v2.84 `PSTricks' (tvz,hv)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\pst-fp.
+tex")
+File: pst-fp.tex 2018/05/01 v2.84 `PST-fp' (hv)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+sty"
+\lst@mode=\count123
+\lst@gtempboxa=\box32
+\lst@token=\toks32
+\lst@length=\count124
+\lst@currlwidth=\dimen151
+\lst@column=\count125
+\lst@pos=\count126
+\lst@lostspace=\dimen152
+\lst@width=\dimen153
+\lst@newlines=\count127
+\lst@lineno=\count128
+\lst@maxwidth=\dimen154
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count129
+\lst@skipnumbers=\count130
+\lst@framebox=\box33
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\
+tikz.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
+.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfr
+cs.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common.tex"
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen155
+\pgfutil@tempdimb=\dimen156
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common-lists.tex"))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-latex.def"
+\pgfutil@abb=\box34
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+frcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
+core.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pg
+fsys.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex")
+\pgf@x=\dimen157
+\pgf@y=\dimen158
+\pgf@xa=\dimen159
+\pgf@ya=\dimen160
+\pgf@xb=\dimen161
+\pgf@yb=\dimen162
+\pgf@xc=\dimen163
+\pgf@yc=\dimen164
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count131
+\c@pgf@countb=\count132
+\c@pgf@countc=\count133
+\c@pgf@countd=\count134
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count135
+\pgfsyssoftpath@bigbuffer@items=\count136
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen165
+\pgf@picmaxx=\dimen166
+\pgf@picminy=\dimen167
+\pgf@picmaxy=\dimen168
+\pgf@pathminx=\dimen169
+\pgf@pathmaxx=\dimen170
+\pgf@pathminy=\dimen171
+\pgf@pathmaxy=\dimen172
+\pgf@xx=\dimen173
+\pgf@xy=\dimen174
+\pgf@yx=\dimen175
+\pgf@yy=\dimen176
+\pgf@zx=\dimen177
+\pgf@zy=\dimen178
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen179
+\pgf@path@lasty=\dimen180
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen181
+\pgf@shorten@start@additional=\dimen182
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box35
+\pgf@hbox=\box36
+\pgf@layerbox@main=\box37
+\pgf@picture@serial@count=\count137
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen183
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen184
+\pgf@pt@y=\dimen185
+\pgf@pt@temp=\dimen186
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen187
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen188
+\pgf@sys@shading@range@num=\count138
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box38
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box39
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
+pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen189
+\pgf@nodesepend=\dimen190
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
+pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgff
+or.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfk
+eys.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.s
+ty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+ffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex")
+\pgffor@iter=\dimen191
+\pgffor@skip=\dimen192
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
+flibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count139
+\pgfplotmarksize=\dimen193
+)
+\tikz@lastx=\dimen194
+\tikz@lasty=\dimen195
+\tikz@lastxsaved=\dimen196
+\tikz@lastysaved=\dimen197
+\tikzleveldistance=\dimen198
+\tikzsiblingdistance=\dimen199
+\tikz@figbox=\box40
+\tikz@figbox@bg=\box41
+\tikz@tempbox=\box42
+\tikz@tempbox@bg=\box43
+\tikztreelevel=\count140
+\tikznumberofchildren=\count141
+\tikznumberofcurrentchild=\count142
+\tikz@fig@count=\count143
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+odulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count144
+\pgfmatrixcurrentcolumn=\count145
+\pgf@matrix@numberofcolumns=\count146
+)
+\tikz@expandcount=\count147
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks39
+\inpenc@posthook=\toks40
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
+flibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen256
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryautomata.code.tex"
+File: tikzlibraryautomata.code.tex 2008/07/14 v3.0.1a (rcs-revision 1.3)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
+)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
+apes\pgflibraryshapes.multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
+
+\pgfnodepartlowerbox=\box44
+\pgfnodeparttwobox=\box45
+\pgfnodepartthreebox=\box46
+\pgfnodepartfourbox=\box47
+\pgfnodeparttwentybox=\box48
+\pgfnodepartnineteenbox=\box49
+\pgfnodeparteighteenbox=\box50
+\pgfnodepartseventeenbox=\box51
+\pgfnodepartsixteenbox=\box52
+\pgfnodepartfifteenbox=\box53
+\pgfnodepartfourteenbox=\box54
+\pgfnodepartthirteenbox=\box55
+\pgfnodeparttwelvebox=\box56
+\pgfnodepartelevenbox=\box57
+\pgfnodeparttenbox=\box58
+\pgfnodepartninebox=\box59
+\pgfnodeparteightbox=\box60
+\pgfnodepartsevenbox=\box61
+\pgfnodepartsixbox=\box62
+\pgfnodepartfivebox=\box63
+)))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+) (SimulationDate.aux
+(figsThreshold/Cardbn_hammin_100a.aux) (figsThreshold/bn_hammin_50.aux)
+(figsThreshold/Ave_sim_diff_befs.aux)
+(figsThreshold/Ave_sim_diff_befs_ignore1s.aux)
+(figsThreshold/Ave_hamming_diff_befs.aux)
+(figsThreshold/Ave_dis_diff_befs_max.aux)
+(figsThreshold/Ave_sim_diff_befs_max.aux))
 \openout1 = `SimulationDate.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count91
-\scratchdimen=\dimen113
-\scratchbox=\box28
-\nofMPsegments=\count92
-\nofMParguments=\count93
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count94
-\MPscratchDim=\dimen114
-\MPnumerator=\count95
-\makeMPintoPDFobject=\count96
-\everyMPtoPDFconversion=\toks19
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+\scratchcounter=\count148
+\scratchdimen=\dimen257
+\scratchbox=\box64
+\nofMPsegments=\count149
+\nofMParguments=\count150
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count151
+\MPscratchDim=\dimen258
+\MPnumerator=\count152
+\makeMPintoPDFobject=\count153
+\everyMPtoPDFconversion=\toks42
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -141,8 +700,9 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -190,450 +750,802 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+\c@lstlisting=\count154
+ABD: EveryShipout initializing macros
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <12> on input line 109.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 109.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
-<figs/agt50_3_800_100.png, id=1, 433.62pt x 289.08pt>
+(Font)              <6> on input line 109.
+<figs/agt50_3_800_100.png, id=4, 433.62pt x 289.08pt>
 File: figs/agt50_3_800_100.png Graphic file (type png)
 <use figs/agt50_3_800_100.png>
-Package pdftex.def Info: figs/agt50_3_800_100.png  used on input line 15.
+Package pdftex.def Info: figs/agt50_3_800_100.png  used on input line 112.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/Sim50_3_800_100.png, id=3, 433.62pt x 289.08pt>
+<figs/Sim50_3_800_100.png, id=6, 433.62pt x 289.08pt>
 File: figs/Sim50_3_800_100.png Graphic file (type png)
 <use figs/Sim50_3_800_100.png>
-Package pdftex.def Info: figs/Sim50_3_800_100.png  used on input line 21.
+Package pdftex.def Info: figs/Sim50_3_800_100.png  used on input line 118.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/SimErr50_3_800_100.png, id=4, 433.62pt x 289.08pt>
+<figs/SimErr50_3_800_100.png, id=7, 433.62pt x 289.08pt>
 File: figs/SimErr50_3_800_100.png Graphic file (type png)
 <use figs/SimErr50_3_800_100.png>
-Package pdftex.def Info: figs/SimErr50_3_800_100.png  used on input line 27.
+Package pdftex.def Info: figs/SimErr50_3_800_100.png  used on input line 124.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-[1
+ [1
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
 
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
 {C:/Users/liuzx/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figs/agt5
 0_3_800_100.png>]
-<figs/Card50_3_800_100.png, id=13, 433.62pt x 289.08pt>
+<figs/Card50_3_800_100.png, id=16, 433.62pt x 289.08pt>
 File: figs/Card50_3_800_100.png Graphic file (type png)
 <use figs/Card50_3_800_100.png>
-Package pdftex.def Info: figs/Card50_3_800_100.png  used on input line 33.
+Package pdftex.def Info: figs/Card50_3_800_100.png  used on input line 130.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/CardErr50_3_800_100.png, id=14, 433.62pt x 289.08pt>
+<figs/CardErr50_3_800_100.png, id=17, 433.62pt x 289.08pt>
 File: figs/CardErr50_3_800_100.png Graphic file (type png)
 <use figs/CardErr50_3_800_100.png>
-Package pdftex.def Info: figs/CardErr50_3_800_100.png  used on input line 39.
+Package pdftex.def Info: figs/CardErr50_3_800_100.png  used on input line 136.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [2 <./figs/Sim50_3_800_100.png> <./figs/SimErr50_3_800_100.png>]
-<figs/agt50_4_1000_100.png, id=20, 433.62pt x 289.08pt>
+<figs/agt50_4_1000_100.png, id=23, 433.62pt x 289.08pt>
 File: figs/agt50_4_1000_100.png Graphic file (type png)
 <use figs/agt50_4_1000_100.png>
-Package pdftex.def Info: figs/agt50_4_1000_100.png  used on input line 47.
+Package pdftex.def Info: figs/agt50_4_1000_100.png  used on input line 144.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [3 <./figs/Card50_3_800_100.png> <./figs/CardErr50_3_800_100.png>]
-<figs/Sim50_4_1000_100.png, id=26, 433.62pt x 289.08pt>
+<figs/Sim50_4_1000_100.png, id=29, 433.62pt x 289.08pt>
 File: figs/Sim50_4_1000_100.png Graphic file (type png)
 <use figs/Sim50_4_1000_100.png>
-Package pdftex.def Info: figs/Sim50_4_1000_100.png  used on input line 53.
+Package pdftex.def Info: figs/Sim50_4_1000_100.png  used on input line 150.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/SimErr50_4_1000_100.png, id=27, 433.62pt x 289.08pt>
+<figs/SimErr50_4_1000_100.png, id=30, 433.62pt x 289.08pt>
 File: figs/SimErr50_4_1000_100.png Graphic file (type png)
 <use figs/SimErr50_4_1000_100.png>
-Package pdftex.def Info: figs/SimErr50_4_1000_100.png  used on input line 59.
+Package pdftex.def Info: figs/SimErr50_4_1000_100.png  used on input line 156.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/Card50_4_1000_100.png, id=28, 433.62pt x 289.08pt>
+<figs/Card50_4_1000_100.png, id=31, 433.62pt x 289.08pt>
 File: figs/Card50_4_1000_100.png Graphic file (type png)
 <use figs/Card50_4_1000_100.png>
-Package pdftex.def Info: figs/Card50_4_1000_100.png  used on input line 65.
+Package pdftex.def Info: figs/Card50_4_1000_100.png  used on input line 162.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-
-[4 <./figs/agt50_4_1000_100.png> <./figs/Sim50_4_1000_100.png>]
-<figs/CardErr50_4_1000_100.png, id=34, 433.62pt x 289.08pt>
+ [4 <./figs/agt50_4_1000_100.png> <./figs/Sim50_4_1000_100.png>]
+<figs/CardErr50_4_1000_100.png, id=37, 433.62pt x 289.08pt>
 File: figs/CardErr50_4_1000_100.png Graphic file (type png)
 <use figs/CardErr50_4_1000_100.png>
-Package pdftex.def Info: figs/CardErr50_4_1000_100.png  used on input line 71.
+Package pdftex.def Info: figs/CardErr50_4_1000_100.png  used on input line 168.
+
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [5 <./figs/SimErr50_4_1000_100.png> <./figs/Card50_4_1000_100.png>]
-<figs/agt50_4_1000_300.png, id=40, 433.62pt x 289.08pt>
+<figs/agt50_4_1000_300.png, id=43, 433.62pt x 289.08pt>
 File: figs/agt50_4_1000_300.png Graphic file (type png)
 <use figs/agt50_4_1000_300.png>
-Package pdftex.def Info: figs/agt50_4_1000_300.png  used on input line 78.
+Package pdftex.def Info: figs/agt50_4_1000_300.png  used on input line 175.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/Sim50_4_1000_300.png, id=41, 433.62pt x 289.08pt>
+<figs/Sim50_4_1000_300.png, id=44, 433.62pt x 289.08pt>
 File: figs/Sim50_4_1000_300.png Graphic file (type png)
 <use figs/Sim50_4_1000_300.png>
-Package pdftex.def Info: figs/Sim50_4_1000_300.png  used on input line 84.
+Package pdftex.def Info: figs/Sim50_4_1000_300.png  used on input line 181.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/SimErr50_4_1000_300.png, id=42, 433.62pt x 289.08pt>
+<figs/SimErr50_4_1000_300.png, id=45, 433.62pt x 289.08pt>
 File: figs/SimErr50_4_1000_300.png Graphic file (type png)
 <use figs/SimErr50_4_1000_300.png>
-Package pdftex.def Info: figs/SimErr50_4_1000_300.png  used on input line 90.
+Package pdftex.def Info: figs/SimErr50_4_1000_300.png  used on input line 187.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [6 <./figs/CardErr50_4_1000_100.png> <./figs/agt50_4_1000_300.png>]
-<figs/Card50_4_1000_300.png, id=48, 433.62pt x 289.08pt>
+<figs/Card50_4_1000_300.png, id=51, 433.62pt x 289.08pt>
 File: figs/Card50_4_1000_300.png Graphic file (type png)
 <use figs/Card50_4_1000_300.png>
-Package pdftex.def Info: figs/Card50_4_1000_300.png  used on input line 96.
+Package pdftex.def Info: figs/Card50_4_1000_300.png  used on input line 193.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/CardErr50_4_1000_300.png, id=49, 433.62pt x 289.08pt>
+<figs/CardErr50_4_1000_300.png, id=52, 433.62pt x 289.08pt>
 File: figs/CardErr50_4_1000_300.png Graphic file (type png)
 <use figs/CardErr50_4_1000_300.png>
-Package pdftex.def Info: figs/CardErr50_4_1000_300.png  used on input line 102.
+Package pdftex.def Info: figs/CardErr50_4_1000_300.png  used on input line 199.
 
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [7 <./figs/Sim50_4_1000_300.png> <./figs/SimErr50_4_1000_300.png>]
-<figs/agt50_4_1000_800.png, id=56, 433.62pt x 289.08pt>
+<figs/agt50_4_1000_800.png, id=59, 433.62pt x 289.08pt>
 File: figs/agt50_4_1000_800.png Graphic file (type png)
 <use figs/agt50_4_1000_800.png>
-Package pdftex.def Info: figs/agt50_4_1000_800.png  used on input line 109.
+Package pdftex.def Info: figs/agt50_4_1000_800.png  used on input line 206.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [8 <./figs/Card50_4_1000_300.png> <./figs/CardErr50_4_1000_300.png>]
-<figs/Sim50_4_1000_800.png, id=62, 433.62pt x 289.08pt>
+<figs/Sim50_4_1000_800.png, id=65, 433.62pt x 289.08pt>
 File: figs/Sim50_4_1000_800.png Graphic file (type png)
 <use figs/Sim50_4_1000_800.png>
-Package pdftex.def Info: figs/Sim50_4_1000_800.png  used on input line 115.
+Package pdftex.def Info: figs/Sim50_4_1000_800.png  used on input line 212.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/SimErr50_4_1000_800.png, id=63, 433.62pt x 289.08pt>
+<figs/SimErr50_4_1000_800.png, id=66, 433.62pt x 289.08pt>
 File: figs/SimErr50_4_1000_800.png Graphic file (type png)
 <use figs/SimErr50_4_1000_800.png>
-Package pdftex.def Info: figs/SimErr50_4_1000_800.png  used on input line 121.
+Package pdftex.def Info: figs/SimErr50_4_1000_800.png  used on input line 218.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/Card50_4_1000_800.png, id=64, 433.62pt x 289.08pt>
+<figs/Card50_4_1000_800.png, id=67, 433.62pt x 289.08pt>
 File: figs/Card50_4_1000_800.png Graphic file (type png)
 <use figs/Card50_4_1000_800.png>
-Package pdftex.def Info: figs/Card50_4_1000_800.png  used on input line 127.
+Package pdftex.def Info: figs/Card50_4_1000_800.png  used on input line 224.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [9 <./figs/agt50_4_1000_800.png> <./figs/Sim50_4_1000_800.png>]
-<figs/CardErr50_4_1000_800.png, id=70, 433.62pt x 289.08pt>
+<figs/CardErr50_4_1000_800.png, id=73, 433.62pt x 289.08pt>
 File: figs/CardErr50_4_1000_800.png Graphic file (type png)
 <use figs/CardErr50_4_1000_800.png>
-Package pdftex.def Info: figs/CardErr50_4_1000_800.png  used on input line 133.
+Package pdftex.def Info: figs/CardErr50_4_1000_800.png  used on input line 230.
 
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [10 <./figs/SimErr50_4_1000_800.png> <./figs/Card50_4_1000_800.png>]
-<figs/agt50_4_1000_1500.png, id=76, 433.62pt x 289.08pt>
+
+[10 <./figs/SimErr50_4_1000_800.png> <./figs/Card50_4_1000_800.png>]
+<figs/agt50_4_1000_1500.png, id=79, 433.62pt x 289.08pt>
 File: figs/agt50_4_1000_1500.png Graphic file (type png)
 <use figs/agt50_4_1000_1500.png>
-Package pdftex.def Info: figs/agt50_4_1000_1500.png  used on input line 141.
+Package pdftex.def Info: figs/agt50_4_1000_1500.png  used on input line 238.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/Sim50_4_1000_1500.png, id=77, 433.62pt x 289.08pt>
+<figs/Sim50_4_1000_1500.png, id=80, 433.62pt x 289.08pt>
 File: figs/Sim50_4_1000_1500.png Graphic file (type png)
 <use figs/Sim50_4_1000_1500.png>
-Package pdftex.def Info: figs/Sim50_4_1000_1500.png  used on input line 147.
+Package pdftex.def Info: figs/Sim50_4_1000_1500.png  used on input line 244.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-
-[11 <./figs/CardErr50_4_1000_800.png>]
-<figs/SimErr50_4_1000_1500.png, id=82, 433.62pt x 289.08pt>
+ [11 <./figs/CardErr50_4_1000_800.png>]
+<figs/SimErr50_4_1000_1500.png, id=85, 433.62pt x 289.08pt>
 File: figs/SimErr50_4_1000_1500.png Graphic file (type png)
 <use figs/SimErr50_4_1000_1500.png>
-Package pdftex.def Info: figs/SimErr50_4_1000_1500.png  used on input line 153.
+Package pdftex.def Info: figs/SimErr50_4_1000_1500.png  used on input line 250.
 
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/Card50_4_1000_1500.png, id=83, 433.62pt x 289.08pt>
+<figs/Card50_4_1000_1500.png, id=86, 433.62pt x 289.08pt>
 File: figs/Card50_4_1000_1500.png Graphic file (type png)
 <use figs/Card50_4_1000_1500.png>
-Package pdftex.def Info: figs/Card50_4_1000_1500.png  used on input line 159.
+Package pdftex.def Info: figs/Card50_4_1000_1500.png  used on input line 256.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [12 <./figs/agt50_4_1000_1500.png> <./figs/Sim50_4_1000_1500.png>]
-<figs/CardErr50_4_1000_1500.png, id=89, 433.62pt x 289.08pt>
+<figs/CardErr50_4_1000_1500.png, id=92, 433.62pt x 289.08pt>
 File: figs/CardErr50_4_1000_1500.png Graphic file (type png)
 <use figs/CardErr50_4_1000_1500.png>
-Package pdftex.def Info: figs/CardErr50_4_1000_1500.png  used on input line 165
+Package pdftex.def Info: figs/CardErr50_4_1000_1500.png  used on input line 262
 .
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [13 <./figs/SimErr50_4_1000_1500.png> <./figs/Card50_4_1000_1500.png>]
-<figs/agt50_4_1000_1500_e2.png, id=96, 462.528pt x 339.669pt>
+<figs/agt50_4_1000_1500_e2.png, id=99, 462.528pt x 339.669pt>
 File: figs/agt50_4_1000_1500_e2.png Graphic file (type png)
 <use figs/agt50_4_1000_1500_e2.png>
-Package pdftex.def Info: figs/agt50_4_1000_1500_e2.png  used on input line 173.
+Package pdftex.def Info: figs/agt50_4_1000_1500_e2.png  used on input line 270.
 
 (pdftex.def)             Requested size: 409.71692pt x 300.89989pt.
-<figs/Sim50_4_1000_1500_e2.png, id=97, 462.528pt x 339.669pt>
+<figs/Sim50_4_1000_1500_e2.png, id=100, 462.528pt x 339.669pt>
 File: figs/Sim50_4_1000_1500_e2.png Graphic file (type png)
 <use figs/Sim50_4_1000_1500_e2.png>
-Package pdftex.def Info: figs/Sim50_4_1000_1500_e2.png  used on input line 179.
+Package pdftex.def Info: figs/Sim50_4_1000_1500_e2.png  used on input line 276.
 
 (pdftex.def)             Requested size: 409.71692pt x 300.89989pt.
  [14 <./figs/CardErr50_4_1000_1500.png>]
-<figs/SimErr50_4_1000_1500_e2.png, id=102, 462.528pt x 339.669pt>
+<figs/SimErr50_4_1000_1500_e2.png, id=105, 462.528pt x 339.669pt>
 File: figs/SimErr50_4_1000_1500_e2.png Graphic file (type png)
 <use figs/SimErr50_4_1000_1500_e2.png>
-Package pdftex.def Info: figs/SimErr50_4_1000_1500_e2.png  used on input line 1
-85.
+Package pdftex.def Info: figs/SimErr50_4_1000_1500_e2.png  used on input line 2
+82.
 (pdftex.def)             Requested size: 409.71692pt x 300.89989pt.
  [15 <./figs/agt50_4_1000_1500_e2.png>]
-<figs/Card50_4_1000_1500_e2.png, id=107, 462.528pt x 339.669pt>
+<figs/Card50_4_1000_1500_e2.png, id=110, 462.528pt x 339.669pt>
 File: figs/Card50_4_1000_1500_e2.png Graphic file (type png)
 <use figs/Card50_4_1000_1500_e2.png>
-Package pdftex.def Info: figs/Card50_4_1000_1500_e2.png  used on input line 191
+Package pdftex.def Info: figs/Card50_4_1000_1500_e2.png  used on input line 288
 .
 (pdftex.def)             Requested size: 409.71692pt x 300.89989pt.
  [16 <./figs/Sim50_4_1000_1500_e2.png>]
-<figs/CardErr50_4_1000_1500_e2.png, id=112, 462.528pt x 339.669pt>
+<figs/CardErr50_4_1000_1500_e2.png, id=115, 462.528pt x 339.669pt>
 File: figs/CardErr50_4_1000_1500_e2.png Graphic file (type png)
 <use figs/CardErr50_4_1000_1500_e2.png>
 Package pdftex.def Info: figs/CardErr50_4_1000_1500_e2.png  used on input line 
-197.
+294.
 (pdftex.def)             Requested size: 409.71692pt x 300.89989pt.
  [17 <./figs/SimErr50_4_1000_1500_e2.png>] [18 <./figs/Card50_4_1000_1500_e2.pn
 g>]
-<figs/agt50_4_1000_1500_e3.png, id=121, 433.62pt x 289.08pt>
+<figs/agt50_4_1000_1500_e3.png, id=124, 433.62pt x 289.08pt>
 File: figs/agt50_4_1000_1500_e3.png Graphic file (type png)
 <use figs/agt50_4_1000_1500_e3.png>
-Package pdftex.def Info: figs/agt50_4_1000_1500_e3.png  used on input line 205.
+Package pdftex.def Info: figs/agt50_4_1000_1500_e3.png  used on input line 302.
 
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/Sim50_4_1000_1500_e3.png, id=122, 433.62pt x 289.08pt>
+<figs/Sim50_4_1000_1500_e3.png, id=125, 433.62pt x 289.08pt>
 File: figs/Sim50_4_1000_1500_e3.png Graphic file (type png)
 <use figs/Sim50_4_1000_1500_e3.png>
-Package pdftex.def Info: figs/Sim50_4_1000_1500_e3.png  used on input line 211.
+Package pdftex.def Info: figs/Sim50_4_1000_1500_e3.png  used on input line 308.
 
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [19 <./figs/CardErr50_4_1000_1500_e2.png>]
-<figs/SimErr50_4_1000_1500_e3.png, id=128, 433.62pt x 289.08pt>
+<figs/SimErr50_4_1000_1500_e3.png, id=131, 433.62pt x 289.08pt>
 File: figs/SimErr50_4_1000_1500_e3.png Graphic file (type png)
 <use figs/SimErr50_4_1000_1500_e3.png>
-Package pdftex.def Info: figs/SimErr50_4_1000_1500_e3.png  used on input line 2
-17.
+Package pdftex.def Info: figs/SimErr50_4_1000_1500_e3.png  used on input line 3
+14.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figs/Card50_4_1000_1500_e3.png, id=129, 433.62pt x 289.08pt>
+<figs/Card50_4_1000_1500_e3.png, id=132, 433.62pt x 289.08pt>
 File: figs/Card50_4_1000_1500_e3.png Graphic file (type png)
 <use figs/Card50_4_1000_1500_e3.png>
-Package pdftex.def Info: figs/Card50_4_1000_1500_e3.png  used on input line 223
+Package pdftex.def Info: figs/Card50_4_1000_1500_e3.png  used on input line 320
 .
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [20 <./figs/agt50_4_1000_1500_e3.png> <./figs/Sim50_4_1000_1500_e3.png>]
-<figs/CardErr50_4_1000_1500_e3.png, id=135, 433.62pt x 289.08pt>
+<figs/CardErr50_4_1000_1500_e3.png, id=138, 433.62pt x 289.08pt>
 File: figs/CardErr50_4_1000_1500_e3.png Graphic file (type png)
 <use figs/CardErr50_4_1000_1500_e3.png>
 Package pdftex.def Info: figs/CardErr50_4_1000_1500_e3.png  used on input line 
-229.
+326.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [21 <./figs/SimErr50_4_1000_1500_e3.png> <./figs/Card50_4_1000_1500_e3.png>]
-<figsHamm/agt50_4_1000_100_e3.png, id=141, 433.62pt x 289.08pt>
+<figsHamm/agt50_4_1000_100_e3.png, id=144, 433.62pt x 289.08pt>
 File: figsHamm/agt50_4_1000_100_e3.png Graphic file (type png)
 <use figsHamm/agt50_4_1000_100_e3.png>
-Package pdftex.def Info: figsHamm/agt50_4_1000_100_e3.png  used on input line 2
-40.
+Package pdftex.def Info: figsHamm/agt50_4_1000_100_e3.png  used on input line 3
+37.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsHamm/Sim50_4_1000_100_e3.png, id=142, 433.62pt x 289.08pt>
+<figsHamm/Sim50_4_1000_100_e3.png, id=145, 433.62pt x 289.08pt>
 File: figsHamm/Sim50_4_1000_100_e3.png Graphic file (type png)
 <use figsHamm/Sim50_4_1000_100_e3.png>
-Package pdftex.def Info: figsHamm/Sim50_4_1000_100_e3.png  used on input line 2
-46.
+Package pdftex.def Info: figsHamm/Sim50_4_1000_100_e3.png  used on input line 3
+43.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [22 <./figs/CardErr50_4_1000_1500_e3.png>]
-<figsHamm/SimErr50_4_1000_100_e3.png, id=147, 433.62pt x 289.08pt>
+<figsHamm/SimErr50_4_1000_100_e3.png, id=150, 433.62pt x 289.08pt>
 File: figsHamm/SimErr50_4_1000_100_e3.png Graphic file (type png)
 <use figsHamm/SimErr50_4_1000_100_e3.png>
 Package pdftex.def Info: figsHamm/SimErr50_4_1000_100_e3.png  used on input lin
-e 252.
+e 349.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsHamm/Card50_4_1000_100_e3.png, id=148, 433.62pt x 289.08pt>
+<figsHamm/Card50_4_1000_100_e3.png, id=151, 433.62pt x 289.08pt>
 File: figsHamm/Card50_4_1000_100_e3.png Graphic file (type png)
 <use figsHamm/Card50_4_1000_100_e3.png>
 Package pdftex.def Info: figsHamm/Card50_4_1000_100_e3.png  used on input line 
-258.
+355.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [23 <./figsHamm/agt50_4_1000_100_e3.png> <./figsHamm/Sim50_4_1000_100_e3.png>]
-<figsHamm/CardErr50_4_1000_100_e3.png, id=154, 433.62pt x 289.08pt>
+<figsHamm/CardErr50_4_1000_100_e3.png, id=157, 433.62pt x 289.08pt>
 File: figsHamm/CardErr50_4_1000_100_e3.png Graphic file (type png)
 <use figsHamm/CardErr50_4_1000_100_e3.png>
 Package pdftex.def Info: figsHamm/CardErr50_4_1000_100_e3.png  used on input li
-ne 264.
+ne 361.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsHamm/numbef50_4_1000_100_e3.png, id=155, 433.62pt x 289.08pt>
+<figsHamm/numbef50_4_1000_100_e3.png, id=158, 433.62pt x 289.08pt>
 File: figsHamm/numbef50_4_1000_100_e3.png Graphic file (type png)
 <use figsHamm/numbef50_4_1000_100_e3.png>
 Package pdftex.def Info: figsHamm/numbef50_4_1000_100_e3.png  used on input lin
-e 269.
+e 366.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [24 <./figsHamm/SimErr50_4_1000_100_e3.png> <./figsHamm/Card50_4_1000_100_e3.p
 ng>]
-<figsHamm/agt50_5_1200_100_3.png, id=161, 433.62pt x 289.08pt>
+<figsHamm/agt50_5_1200_100_3.png, id=164, 433.62pt x 289.08pt>
 File: figsHamm/agt50_5_1200_100_3.png Graphic file (type png)
 <use figsHamm/agt50_5_1200_100_3.png>
-Package pdftex.def Info: figsHamm/agt50_5_1200_100_3.png  used on input line 27
-6.
+Package pdftex.def Info: figsHamm/agt50_5_1200_100_3.png  used on input line 37
+3.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [25 <./figsHamm/CardErr50_4_1000_100_e3.png> <./figsHamm/numbef50_4_1000_100_e
 3.png>]
-<figsHamm/Sim50_5_1200_100_3.png, id=168, 433.62pt x 289.08pt>
+<figsHamm/Sim50_5_1200_100_3.png, id=171, 433.62pt x 289.08pt>
 File: figsHamm/Sim50_5_1200_100_3.png Graphic file (type png)
 <use figsHamm/Sim50_5_1200_100_3.png>
-Package pdftex.def Info: figsHamm/Sim50_5_1200_100_3.png  used on input line 28
-2.
+Package pdftex.def Info: figsHamm/Sim50_5_1200_100_3.png  used on input line 37
+9.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsHamm/SimErr50_5_1200_100_3.png, id=169, 433.62pt x 289.08pt>
+<figsHamm/SimErr50_5_1200_100_3.png, id=172, 433.62pt x 289.08pt>
 File: figsHamm/SimErr50_5_1200_100_3.png Graphic file (type png)
 <use figsHamm/SimErr50_5_1200_100_3.png>
 Package pdftex.def Info: figsHamm/SimErr50_5_1200_100_3.png  used on input line
- 288.
+ 385.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsHamm/Card50_5_1200_100_3.png, id=170, 433.62pt x 289.08pt>
+<figsHamm/Card50_5_1200_100_3.png, id=173, 433.62pt x 289.08pt>
 File: figsHamm/Card50_5_1200_100_3.png Graphic file (type png)
 <use figsHamm/Card50_5_1200_100_3.png>
-Package pdftex.def Info: figsHamm/Card50_5_1200_100_3.png  used on input line 2
-94.
+Package pdftex.def Info: figsHamm/Card50_5_1200_100_3.png  used on input line 3
+91.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [26 <./figsHamm/agt50_5_1200_100_3.png> <./figsHamm/Sim50_5_1200_100_3.png>]
-<figsHamm/CardErr50_5_1200_100_3.png, id=176, 433.62pt x 289.08pt>
+<figsHamm/CardErr50_5_1200_100_3.png, id=179, 433.62pt x 289.08pt>
 File: figsHamm/CardErr50_5_1200_100_3.png Graphic file (type png)
 <use figsHamm/CardErr50_5_1200_100_3.png>
 Package pdftex.def Info: figsHamm/CardErr50_5_1200_100_3.png  used on input lin
-e 300.
+e 397.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsHamm/numbef50_5_1200_100_3.png, id=177, 433.62pt x 289.08pt>
+<figsHamm/numbef50_5_1200_100_3.png, id=180, 433.62pt x 289.08pt>
 File: figsHamm/numbef50_5_1200_100_3.png Graphic file (type png)
 <use figsHamm/numbef50_5_1200_100_3.png>
 Package pdftex.def Info: figsHamm/numbef50_5_1200_100_3.png  used on input line
- 305.
+ 402.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [27 <./figsHamm/SimErr50_5_1200_100_3.png> <./figsHamm/Card50_5_1200_100_3.png
 >]
-<figsHamm/agt50_5_1200_1000_5.png, id=183, 433.62pt x 289.08pt>
+<figsHamm/agt50_5_1200_1000_5.png, id=186, 433.62pt x 289.08pt>
 File: figsHamm/agt50_5_1200_1000_5.png Graphic file (type png)
 <use figsHamm/agt50_5_1200_1000_5.png>
-Package pdftex.def Info: figsHamm/agt50_5_1200_1000_5.png  used on input line 3
-13.
+Package pdftex.def Info: figsHamm/agt50_5_1200_1000_5.png  used on input line 4
+10.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [28 <./figsHamm/CardErr50_5_1200_100_3.png> <./figsHamm/numbef50_5_1200_100_3.
 png>]
-<figsHamm/Sim50_5_1200_1000_5.png, id=189, 433.62pt x 289.08pt>
+<figsHamm/Sim50_5_1200_1000_5.png, id=192, 433.62pt x 289.08pt>
 File: figsHamm/Sim50_5_1200_1000_5.png Graphic file (type png)
 <use figsHamm/Sim50_5_1200_1000_5.png>
-Package pdftex.def Info: figsHamm/Sim50_5_1200_1000_5.png  used on input line 3
-19.
+Package pdftex.def Info: figsHamm/Sim50_5_1200_1000_5.png  used on input line 4
+16.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsHamm/SimErr50_5_1200_1000_5.png, id=190, 433.62pt x 289.08pt>
+<figsHamm/SimErr50_5_1200_1000_5.png, id=193, 433.62pt x 289.08pt>
 File: figsHamm/SimErr50_5_1200_1000_5.png Graphic file (type png)
 <use figsHamm/SimErr50_5_1200_1000_5.png>
 Package pdftex.def Info: figsHamm/SimErr50_5_1200_1000_5.png  used on input lin
-e 325.
+e 422.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsHamm/Card50_5_1200_1000_5.png, id=191, 433.62pt x 289.08pt>
+<figsHamm/Card50_5_1200_1000_5.png, id=194, 433.62pt x 289.08pt>
 File: figsHamm/Card50_5_1200_1000_5.png Graphic file (type png)
 <use figsHamm/Card50_5_1200_1000_5.png>
 Package pdftex.def Info: figsHamm/Card50_5_1200_1000_5.png  used on input line 
-331.
+428.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-
-[29 <./figsHamm/agt50_5_1200_1000_5.png> <./figsHamm/Sim50_5_1200_1000_5.png>]
-<figsHamm/CardErr50_5_1200_1000_5.png, id=197, 433.62pt x 289.08pt>
+ [29 <./figsHamm/agt50_5_1200_1000_5.png> <./figsHamm/Sim50_5_1200_1000_5.png>]
+<figsHamm/CardErr50_5_1200_1000_5.png, id=200, 433.62pt x 289.08pt>
 File: figsHamm/CardErr50_5_1200_1000_5.png Graphic file (type png)
 <use figsHamm/CardErr50_5_1200_1000_5.png>
 Package pdftex.def Info: figsHamm/CardErr50_5_1200_1000_5.png  used on input li
-ne 337.
+ne 434.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsHamm/numbef50_5_1200_1000_5.png, id=198, 433.62pt x 289.08pt>
+<figsHamm/numbef50_5_1200_1000_5.png, id=201, 433.62pt x 289.08pt>
 File: figsHamm/numbef50_5_1200_1000_5.png Graphic file (type png)
 <use figsHamm/numbef50_5_1200_1000_5.png>
 Package pdftex.def Info: figsHamm/numbef50_5_1200_1000_5.png  used on input lin
-e 342.
+e 439.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-
-[30 <./figsHamm/SimErr50_5_1200_1000_5.png> <./figsHamm/Card50_5_1200_1000_5.pn
-g>]
-<figsHamm/agt100_4_1500_100_5.png, id=204, 433.62pt x 289.08pt>
+ [30 <./figsHamm/SimErr50_5_1200_1000_5.png> <./figsHamm/Card50_5_1200_1000_5.p
+ng>]
+<figsHamm/agt100_4_1500_100_5.png, id=207, 433.62pt x 289.08pt>
 File: figsHamm/agt100_4_1500_100_5.png Graphic file (type png)
 <use figsHamm/agt100_4_1500_100_5.png>
-Package pdftex.def Info: figsHamm/agt100_4_1500_100_5.png  used on input line 3
-50.
+Package pdftex.def Info: figsHamm/agt100_4_1500_100_5.png  used on input line 4
+47.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [31 <./figsHamm/CardErr50_5_1200_1000_5.png> <./figsHamm/numbef50_5_1200_1000_
 5.png>]
-<figsHamm/Sim100_4_1500_100_5.png, id=211, 433.62pt x 289.08pt>
+<figsHamm/Sim100_4_1500_100_5.png, id=214, 433.62pt x 289.08pt>
 File: figsHamm/Sim100_4_1500_100_5.png Graphic file (type png)
 <use figsHamm/Sim100_4_1500_100_5.png>
-Package pdftex.def Info: figsHamm/Sim100_4_1500_100_5.png  used on input line 3
-56.
+Package pdftex.def Info: figsHamm/Sim100_4_1500_100_5.png  used on input line 4
+53.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsHamm/SimErr100_4_1500_100_5.png, id=212, 433.62pt x 289.08pt>
+<figsHamm/SimErr100_4_1500_100_5.png, id=215, 433.62pt x 289.08pt>
 File: figsHamm/SimErr100_4_1500_100_5.png Graphic file (type png)
 <use figsHamm/SimErr100_4_1500_100_5.png>
 Package pdftex.def Info: figsHamm/SimErr100_4_1500_100_5.png  used on input lin
-e 362.
+e 459.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsHamm/Card100_4_1500_100_5.png, id=213, 433.62pt x 289.08pt>
+<figsHamm/Card100_4_1500_100_5.png, id=216, 433.62pt x 289.08pt>
 File: figsHamm/Card100_4_1500_100_5.png Graphic file (type png)
 <use figsHamm/Card100_4_1500_100_5.png>
 Package pdftex.def Info: figsHamm/Card100_4_1500_100_5.png  used on input line 
-368.
+465.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [32 <./figsHamm/agt100_4_1500_100_5.png> <./figsHamm/Sim100_4_1500_100_5.png>]
-<figsHamm/CardErr100_4_1500_100_5.png, id=219, 433.62pt x 289.08pt>
+
+[32 <./figsHamm/agt100_4_1500_100_5.png> <./figsHamm/Sim100_4_1500_100_5.png>]
+<figsHamm/CardErr100_4_1500_100_5.png, id=222, 433.62pt x 289.08pt>
 File: figsHamm/CardErr100_4_1500_100_5.png Graphic file (type png)
 <use figsHamm/CardErr100_4_1500_100_5.png>
 Package pdftex.def Info: figsHamm/CardErr100_4_1500_100_5.png  used on input li
-ne 374.
+ne 471.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsHamm/numbef100_4_1500_100_5.png, id=220, 433.62pt x 289.08pt>
+<figsHamm/numbef100_4_1500_100_5.png, id=223, 433.62pt x 289.08pt>
 File: figsHamm/numbef100_4_1500_100_5.png Graphic file (type png)
 <use figsHamm/numbef100_4_1500_100_5.png>
 Package pdftex.def Info: figsHamm/numbef100_4_1500_100_5.png  used on input lin
-e 379.
+e 476.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
- [33 <./figsHamm/SimErr100_4_1500_100_5.png> <./figsHamm/Card100_4_1500_100_5.p
-ng>] [34 <./figsHamm/CardErr100_4_1500_100_5.png> <./figsHamm/numbef100_4_1500_
-100_5.png>]
-<figsMaxHamm/agt50_4_1500_50_8.png, id=231, 433.62pt x 289.08pt>
+
+[33 <./figsHamm/SimErr100_4_1500_100_5.png> <./figsHamm/Card100_4_1500_100_5.pn
+g>] [34 <./figsHamm/CardErr100_4_1500_100_5.png> <./figsHamm/numbef100_4_1500_1
+00_5.png>]
+<figsMaxHamm/agt50_4_1500_50_8.png, id=234, 433.62pt x 289.08pt>
 File: figsMaxHamm/agt50_4_1500_50_8.png Graphic file (type png)
 <use figsMaxHamm/agt50_4_1500_50_8.png>
 Package pdftex.def Info: figsMaxHamm/agt50_4_1500_50_8.png  used on input line 
-393.
+490.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsMaxHamm/Sim50_4_1500_50_8.png, id=232, 433.62pt x 289.08pt>
+<figsMaxHamm/Sim50_4_1500_50_8.png, id=235, 433.62pt x 289.08pt>
 File: figsMaxHamm/Sim50_4_1500_50_8.png Graphic file (type png)
 <use figsMaxHamm/Sim50_4_1500_50_8.png>
 Package pdftex.def Info: figsMaxHamm/Sim50_4_1500_50_8.png  used on input line 
-399.
+496.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsMaxHamm/SimErr50_4_1500_50_8.png, id=233, 433.62pt x 289.08pt>
+<figsMaxHamm/SimErr50_4_1500_50_8.png, id=236, 433.62pt x 289.08pt>
 File: figsMaxHamm/SimErr50_4_1500_50_8.png Graphic file (type png)
 <use figsMaxHamm/SimErr50_4_1500_50_8.png>
 Package pdftex.def Info: figsMaxHamm/SimErr50_4_1500_50_8.png  used on input li
-ne 405.
+ne 502.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [35 <./figsMaxHamm/agt50_4_1500_50_8.png>]
-<figsMaxHamm/Card50_4_1500_50_8.png, id=238, 433.62pt x 289.08pt>
+<figsMaxHamm/Card50_4_1500_50_8.png, id=241, 433.62pt x 289.08pt>
 File: figsMaxHamm/Card50_4_1500_50_8.png Graphic file (type png)
 <use figsMaxHamm/Card50_4_1500_50_8.png>
 Package pdftex.def Info: figsMaxHamm/Card50_4_1500_50_8.png  used on input line
- 411.
+ 508.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
-<figsMaxHamm/CardErr50_4_1500_50_8.png, id=239, 433.62pt x 289.08pt>
+<figsMaxHamm/CardErr50_4_1500_50_8.png, id=242, 433.62pt x 289.08pt>
 File: figsMaxHamm/CardErr50_4_1500_50_8.png Graphic file (type png)
 <use figsMaxHamm/CardErr50_4_1500_50_8.png>
 Package pdftex.def Info: figsMaxHamm/CardErr50_4_1500_50_8.png  used on input l
-ine 417.
+ine 514.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [36 <./figsMaxHamm/Sim50_4_1500_50_8.png> <./figsMaxHamm/SimErr50_4_1500_50_8.
 png>]
-<figsMaxHamm/numbef50_4_1500_50_8.png, id=245, 433.62pt x 289.08pt>
+<figsMaxHamm/numbef50_4_1500_50_8.png, id=248, 433.62pt x 289.08pt>
 File: figsMaxHamm/numbef50_4_1500_50_8.png Graphic file (type png)
 <use figsMaxHamm/numbef50_4_1500_50_8.png>
 Package pdftex.def Info: figsMaxHamm/numbef50_4_1500_50_8.png  used on input li
-ne 422.
+ne 519.
 (pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
  [37 <./figsMaxHamm/Card50_4_1500_50_8.png> <./figsMaxHamm/CardErr50_4_1500_50_
 8.png>]
-[38 <./figsMaxHamm/numbef50_4_1500_50_8.png>] (SimulationDate.aux) ) 
+<figsSimlarity/agt50_5_2000_100_1.png, id=255, 433.62pt x 289.08pt>
+File: figsSimlarity/agt50_5_2000_100_1.png Graphic file (type png)
+<use figsSimlarity/agt50_5_2000_100_1.png>
+Package pdftex.def Info: figsSimlarity/agt50_5_2000_100_1.png  used on input li
+ne 532.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [38 <./figsMaxHamm/numbef50_4_1500_50_8.png>]
+<figsSimlarity/Card50_5_2000_100_1.png, id=260, 433.62pt x 289.08pt>
+File: figsSimlarity/Card50_5_2000_100_1.png Graphic file (type png)
+<use figsSimlarity/Card50_5_2000_100_1.png>
+Package pdftex.def Info: figsSimlarity/Card50_5_2000_100_1.png  used on input l
+ine 538.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsSimlarity/CardErr50_5_2000_100_1.png, id=261, 433.62pt x 289.08pt>
+File: figsSimlarity/CardErr50_5_2000_100_1.png Graphic file (type png)
+<use figsSimlarity/CardErr50_5_2000_100_1.png>
+Package pdftex.def Info: figsSimlarity/CardErr50_5_2000_100_1.png  used on inpu
+t line 544.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [39 <./figsSimlarity/agt50_5_2000_100_1.png> <./figsSimlarity/Card50_5_2000_10
+0_1.png>]
+<figsSimlarity/Sim50_5_2000_100_1.png, id=267, 433.62pt x 289.08pt>
+File: figsSimlarity/Sim50_5_2000_100_1.png Graphic file (type png)
+<use figsSimlarity/Sim50_5_2000_100_1.png>
+Package pdftex.def Info: figsSimlarity/Sim50_5_2000_100_1.png  used on input li
+ne 550.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsSimlarity/SimErr50_5_2000_100_1.png, id=268, 433.62pt x 289.08pt>
+File: figsSimlarity/SimErr50_5_2000_100_1.png Graphic file (type png)
+<use figsSimlarity/SimErr50_5_2000_100_1.png>
+Package pdftex.def Info: figsSimlarity/SimErr50_5_2000_100_1.png  used on input
+ line 556.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [40 <./figsSimlarity/CardErr50_5_2000_100_1.png> <./figsSimlarity/Sim50_5_2000
+_100_1.png>]
+<figsThreshold/yy.pdf, id=274, 1862.96pt x 1048.91875pt>
+File: figsThreshold/yy.pdf Graphic file (type pdf)
+<use figsThreshold/yy.pdf>
+Package pdftex.def Info: figsThreshold/yy.pdf  used on input line 565.
+(pdftex.def)             Requested size: 409.71692pt x 230.6828pt.
+<figsThreshold/cardminhamm.pdf, id=275, 1862.96pt x 1048.91875pt>
+File: figsThreshold/cardminhamm.pdf Graphic file (type pdf)
+<use figsThreshold/cardminhamm.pdf>
+Package pdftex.def Info: figsThreshold/cardminhamm.pdf  used on input line 571.
+
+(pdftex.def)             Requested size: 409.71692pt x 230.6828pt.
+<figsThreshold/simi_hammin_100a.pdf, id=276, 642.4pt x 385.44pt>
+File: figsThreshold/simi_hammin_100a.pdf Graphic file (type pdf)
+<use figsThreshold/simi_hammin_100a.pdf>
+Package pdftex.def Info: figsThreshold/simi_hammin_100a.pdf  used on input line
+ 577.
+(pdftex.def)             Requested size: 409.71692pt x 245.83385pt.
+ [41 <./figsSimlarity/SimErr50_5_2000_100_1.png> <./figsThreshold/yy.pdf>]
+\openout2 = `figsThreshold/Cardbn_hammin_100a.aux'.
+
+
+(figsThreshold/Cardbn_hammin_100a.tex
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def"
+File: cp1252.def 2018/04/06 v1.3b Input encoding file
+)
+\gptboxheight=\skip43
+\gptboxwidth=\skip44
+\gptboxtext=\box65
+Package epstopdf Info: Source file: <figsThreshold/Cardbn_hammin_100a.eps>
+(epstopdf)                    date: 2018-06-07 18:49:40
+(epstopdf)                    size: 19154 bytes
+(epstopdf)             Output file: <figsThreshold/Cardbn_hammin_100a-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2018-06-07 19:18:36
+(epstopdf)                    size: 3289 bytes
+(epstopdf)             Command: <epstopdf --outfile=figsThreshold/Cardbn_hammin
+_100a-eps-converted-to.pdf figsThreshold/Cardbn_hammin_100a.eps>
+(epstopdf)             \includegraphics on input line 117.
+Package epstopdf Info: Output file is already uptodate.
+<figsThreshold/Cardbn_hammin_100a-eps-converted-to.pdf, id=288, 361.35pt x 252.
+945pt>
+File: figsThreshold/Cardbn_hammin_100a-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use figsThreshold/Cardbn_hammin_100a-eps-converted-to.pdf>
+Package pdftex.def Info: figsThreshold/Cardbn_hammin_100a-eps-converted-to.pdf 
+ used on input line 117.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+)
+\openout2 = `figsThreshold/bn_hammin_50.aux'.
+
+(figsThreshold/bn_hammin_50.tex
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def"
+File: cp1252.def 2018/04/06 v1.3b Input encoding file
+)
+Package epstopdf Info: Source file: <figsThreshold/bn_hammin_50.eps>
+(epstopdf)                    date: 2018-06-07 18:51:07
+(epstopdf)                    size: 18446 bytes
+(epstopdf)             Output file: <figsThreshold/bn_hammin_50-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2018-06-07 19:18:42
+(epstopdf)                    size: 3078 bytes
+(epstopdf)             Command: <epstopdf --outfile=figsThreshold/bn_hammin_50-
+eps-converted-to.pdf figsThreshold/bn_hammin_50.eps>
+(epstopdf)             \includegraphics on input line 109.
+Package epstopdf Info: Output file is already uptodate.
+<figsThreshold/bn_hammin_50-eps-converted-to.pdf, id=289, 361.35pt x 252.945pt>
+
+File: figsThreshold/bn_hammin_50-eps-converted-to.pdf Graphic file (type pdf)
+<use figsThreshold/bn_hammin_50-eps-converted-to.pdf>
+Package pdftex.def Info: figsThreshold/bn_hammin_50-eps-converted-to.pdf  used 
+on input line 109.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+) [42 <./figsThreshold/cardminhamm.pdf> <./figsThreshold/simi_hammin_100a.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsThreshold/simi_hammin_100a.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+>]
+\openout2 = `figsThreshold/Ave_sim_diff_befs.aux'.
+
+ (figsThreshold/Ave_sim_diff_befs.tex
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def"
+File: cp1252.def 2018/04/06 v1.3b Input encoding file
+)
+Package epstopdf Info: Source file: <figsThreshold/Ave_sim_diff_befs.eps>
+(epstopdf)                    date: 2018-06-09 20:51:40
+(epstopdf)                    size: 18525 bytes
+(epstopdf)             Output file: <figsThreshold/Ave_sim_diff_befs-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2018-06-09 20:53:15
+(epstopdf)                    size: 3114 bytes
+(epstopdf)             Command: <epstopdf --outfile=figsThreshold/Ave_sim_diff_
+befs-eps-converted-to.pdf figsThreshold/Ave_sim_diff_befs.eps>
+(epstopdf)             \includegraphics on input line 107.
+Package epstopdf Info: Output file is already uptodate.
+<figsThreshold/Ave_sim_diff_befs-eps-converted-to.pdf, id=308, 361.35pt x 252.9
+45pt>
+File: figsThreshold/Ave_sim_diff_befs-eps-converted-to.pdf Graphic file (type p
+df)
+<use figsThreshold/Ave_sim_diff_befs-eps-converted-to.pdf>
+Package pdftex.def Info: figsThreshold/Ave_sim_diff_befs-eps-converted-to.pdf  
+used on input line 107.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+)
+\openout2 = `figsThreshold/Ave_sim_diff_befs_ignore1s.aux'.
+
+(figsThreshold/Ave_sim_diff_befs_ignore1s.tex
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def"
+File: cp1252.def 2018/04/06 v1.3b Input encoding file
+)
+Package epstopdf Info: Source file: <figsThreshold/Ave_sim_diff_befs.eps>
+(epstopdf)                    date: 2018-06-09 20:51:40
+(epstopdf)                    size: 18525 bytes
+(epstopdf)             Output file: <figsThreshold/Ave_sim_diff_befs-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2018-06-09 20:53:15
+(epstopdf)                    size: 3114 bytes
+(epstopdf)             Command: <epstopdf --outfile=figsThreshold/Ave_sim_diff_
+befs-eps-converted-to.pdf figsThreshold/Ave_sim_diff_befs.eps>
+(epstopdf)             \includegraphics on input line 107.
+Package epstopdf Info: Output file is already uptodate.
+File: figsThreshold/Ave_sim_diff_befs-eps-converted-to.pdf Graphic file (type p
+df)
+<use figsThreshold/Ave_sim_diff_befs-eps-converted-to.pdf>
+Package pdftex.def Info: figsThreshold/Ave_sim_diff_befs-eps-converted-to.pdf  
+used on input line 107.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+) [43
+
+
+
+
+ <./figsThreshold/Cardbn_hammin_100a-eps-converted-to.pdf> <./figsThreshold/bn_
+hammin_50-eps-converted-to.pdf>]
+\openout2 = `figsThreshold/Ave_hamming_diff_befs.aux'.
+
+ (figsThreshold/Ave_hamming_diff_befs.tex
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def"
+File: cp1252.def 2018/04/06 v1.3b Input encoding file
+)
+Package epstopdf Info: Source file: <figsThreshold/Ave_hamming_diff_befs.eps>
+(epstopdf)                    date: 2018-06-20 02:47:11
+(epstopdf)                    size: 18796 bytes
+(epstopdf)             Output file: <figsThreshold/Ave_hamming_diff_befs-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2018-06-20 03:12:26
+(epstopdf)                    size: 3245 bytes
+(epstopdf)             Command: <epstopdf --outfile=figsThreshold/Ave_hamming_d
+iff_befs-eps-converted-to.pdf figsThreshold/Ave_hamming_diff_befs.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+<figsThreshold/Ave_hamming_diff_befs-eps-converted-to.pdf, id=317, 361.35pt x 2
+52.945pt>
+File: figsThreshold/Ave_hamming_diff_befs-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+<use figsThreshold/Ave_hamming_diff_befs-eps-converted-to.pdf>
+Package pdftex.def Info: figsThreshold/Ave_hamming_diff_befs-eps-converted-to.p
+df  used on input line 110.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+)
+<figsThreshold/dominant_minham.pdf, id=318, 794.97pt x 505.89pt>
+File: figsThreshold/dominant_minham.pdf Graphic file (type pdf)
+<use figsThreshold/dominant_minham.pdf>
+Package pdftex.def Info: figsThreshold/dominant_minham.pdf  used on input line 
+611.
+(pdftex.def)             Requested size: 409.71692pt x 260.7331pt.
+[44
+
+
+
+
+ <./figsThreshold/Ave_sim_diff_befs-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figsThreshold/dominant_minhameps.eps>
+(epstopdf)                    date: 2018-06-12 23:38:13
+(epstopdf)                    size: 39837 bytes
+(epstopdf)             Output file: <figsThreshold/dominant_minhameps-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2018-06-13 00:16:17
+(epstopdf)                    size: 20657 bytes
+(epstopdf)             Command: <epstopdf --outfile=figsThreshold/dominant_minh
+ameps-eps-converted-to.pdf figsThreshold/dominant_minhameps.eps>
+(epstopdf)             \includegraphics on input line 617.
+Package epstopdf Info: Output file is already uptodate.
+<figsThreshold/dominant_minhameps-eps-converted-to.pdf, id=325, 794.97pt x 505.
+89pt>
+File: figsThreshold/dominant_minhameps-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use figsThreshold/dominant_minhameps-eps-converted-to.pdf>
+Package pdftex.def Info: figsThreshold/dominant_minhameps-eps-converted-to.pdf 
+ used on input line 617.
+(pdftex.def)             Requested size: 409.71692pt x 260.7331pt.
+ [45
+
+
+ <./figsThreshold/Ave_hamming_diff_befs-eps-converted-to.pdf> <./figsThreshold/
+dominant_minham.pdf>]
+<figsThreshold/figureserif.pdf, id=379, 794.97pt x 505.89pt>
+File: figsThreshold/figureserif.pdf Graphic file (type pdf)
+<use figsThreshold/figureserif.pdf>
+Package pdftex.def Info: figsThreshold/figureserif.pdf  used on input line 623.
+
+(pdftex.def)             Requested size: 409.71692pt x 260.7331pt.
+<figsThreshold/MaxTH_simpdf.pdf, id=380, 1860.9525pt x 1048.91875pt>
+File: figsThreshold/MaxTH_simpdf.pdf Graphic file (type pdf)
+<use figsThreshold/MaxTH_simpdf.pdf>
+Package pdftex.def Info: figsThreshold/MaxTH_simpdf.pdf  used on input line 630
+.
+(pdftex.def)             Requested size: 409.71692pt x 230.92288pt.
+<figsThreshold/MaxTH_cardpdf.pdf, id=381, 1860.9525pt x 1048.91875pt>
+File: figsThreshold/MaxTH_cardpdf.pdf Graphic file (type pdf)
+<use figsThreshold/MaxTH_cardpdf.pdf>
+Package pdftex.def Info: figsThreshold/MaxTH_cardpdf.pdf  used on input line 63
+6.
+(pdftex.def)             Requested size: 409.71692pt x 230.92288pt.
+ [46 <./figsThreshold/dominant_minhameps-eps-converted-to.pdf> <./figsThreshold
+/figureserif.pdf>]
+\openout2 = `figsThreshold/Ave_dis_diff_befs_max.aux'.
+
+ (figsThreshold/Ave_dis_diff_befs_max.tex
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def"
+File: cp1252.def 2018/04/06 v1.3b Input encoding file
+)
+Package epstopdf Info: Source file: <figsThreshold/Ave_dis_diff_befs_max.eps>
+(epstopdf)                    date: 2018-06-20 22:01:18
+(epstopdf)                    size: 18577 bytes
+(epstopdf)             Output file: <figsThreshold/Ave_dis_diff_befs_max-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2018-06-20 22:03:45
+(epstopdf)                    size: 3134 bytes
+(epstopdf)             Command: <epstopdf --outfile=figsThreshold/Ave_dis_diff_
+befs_max-eps-converted-to.pdf figsThreshold/Ave_dis_diff_befs_max.eps>
+(epstopdf)             \includegraphics on input line 107.
+Package epstopdf Info: Output file is already uptodate.
+<figsThreshold/Ave_dis_diff_befs_max-eps-converted-to.pdf, id=452, 361.35pt x 2
+52.945pt>
+File: figsThreshold/Ave_dis_diff_befs_max-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+<use figsThreshold/Ave_dis_diff_befs_max-eps-converted-to.pdf>
+Package pdftex.def Info: figsThreshold/Ave_dis_diff_befs_max-eps-converted-to.p
+df  used on input line 107.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+)
+\openout2 = `figsThreshold/Ave_sim_diff_befs_max.aux'.
+
+(figsThreshold/Ave_sim_diff_befs_max.tex
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def"
+File: cp1252.def 2018/04/06 v1.3b Input encoding file
+)
+Package epstopdf Info: Source file: <figsThreshold/Ave_sim_diff_befs_max.eps>
+(epstopdf)                    date: 2018-06-20 22:53:47
+(epstopdf)                    size: 18636 bytes
+(epstopdf)             Output file: <figsThreshold/Ave_sim_diff_befs_max-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2018-06-20 22:57:14
+(epstopdf)                    size: 3167 bytes
+(epstopdf)             Command: <epstopdf --outfile=figsThreshold/Ave_sim_diff_
+befs_max-eps-converted-to.pdf figsThreshold/Ave_sim_diff_befs_max.eps>
+(epstopdf)             \includegraphics on input line 108.
+Package epstopdf Info: Output file is already uptodate.
+<figsThreshold/Ave_sim_diff_befs_max-eps-converted-to.pdf, id=453, 361.35pt x 2
+52.945pt>
+File: figsThreshold/Ave_sim_diff_befs_max-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+<use figsThreshold/Ave_sim_diff_befs_max-eps-converted-to.pdf>
+Package pdftex.def Info: figsThreshold/Ave_sim_diff_befs_max-eps-converted-to.p
+df  used on input line 108.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+) [47 <./figsThreshold/MaxTH_simpdf.pdf> <./figsThreshold/MaxTH_cardpdf.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsThreshold/MaxTH_cardpdf.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+>]
+<figsThreshold/STh_simpdf.pdf, id=472, 1860.9525pt x 1048.91875pt>
+File: figsThreshold/STh_simpdf.pdf Graphic file (type pdf)
+<use figsThreshold/STh_simpdf.pdf>
+Package pdftex.def Info: figsThreshold/STh_simpdf.pdf  used on input line 655.
+(pdftex.def)             Requested size: 409.71692pt x 230.92288pt.
+<figsThreshold/STh_cardpdf.pdf, id=473, 1860.9525pt x 1048.91875pt>
+File: figsThreshold/STh_cardpdf.pdf Graphic file (type pdf)
+<use figsThreshold/STh_cardpdf.pdf>
+Package pdftex.def Info: figsThreshold/STh_cardpdf.pdf  used on input line 661.
+
+(pdftex.def)             Requested size: 409.71692pt x 230.92288pt.
+ [48
+
+
+
+
+ <./figsThreshold/Ave_dis_diff_befs_max-eps-converted-to.pdf> <./figsThreshold/
+Ave_sim_diff_befs_max-eps-converted-to.pdf>] [49 <./figsThreshold/STh_simpdf.pd
+f> <./figsThreshold/STh_cardpdf.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsThreshold/STh_cardpdf.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+>] (SimulationDate.aux (figsThreshold/Cardbn_hammin_100a.aux)
+(figsThreshold/bn_hammin_50.aux) (figsThreshold/Ave_sim_diff_befs.aux)
+(figsThreshold/Ave_sim_diff_befs_ignore1s.aux)
+(figsThreshold/Ave_hamming_diff_befs.aux)
+(figsThreshold/Ave_dis_diff_befs_max.aux)
+(figsThreshold/Ave_sim_diff_befs_max.aux)) ) 
 Here is how much of TeX's memory you used:
- 2371 strings out of 493307
- 40476 string characters out of 3138822
- 91589 words of memory out of 3000000
- 5851 multiletter control sequences out of 15000+200000
+ 16582 strings out of 492974
+ 343867 string characters out of 3126708
+ 397966 words of memory out of 3000000
+ 19992 multiletter control sequences out of 15000+200000
  7894 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,25p,283b,220s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on SimulationDate.pdf (38 pages, 9741226 bytes).
+ 54i,8n,66p,418b,675s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/liuzx/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/liuzx/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users
+/liuzx/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><C:/Users/liuzx/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr17.pfb><C:/Users/liuzx/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb>
+Output written on SimulationDate.pdf (49 pages, 10705577 bytes).
 PDF statistics:
- 269 PDF objects out of 1000 (max. 8388607)
+ 514 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 326 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 443 words of extra memory for PDF output out of 10000 (max. 10000000)
 

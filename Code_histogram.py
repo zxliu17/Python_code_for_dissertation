@@ -12,14 +12,11 @@ import math
 import time
 import pickle
 '''Function for hamming distance'''
-
-
-
 def create_world(propsition_number):
     single_agent =set()# [set()]*an # use SET as for any agents
    # agents_temp = []
     agent_tuple = [] # belief as tuple(tuple is unchangeable)
-    states = [0]*propsition_number #proposition as list 
+    states = [0]*propsition_number #proposition as list
     world = [] #A list of sets of tuple
     # initialise the agents
     agents_number = int(math.pow(2,propsition_number))
@@ -32,7 +29,7 @@ def create_world(propsition_number):
         agent_tuple.append(states_set)
         single_agent = set (agent_tuple)
         #print (states_set)
-        #print (single_agent)    
+        #print (single_agent)
         agent_tuple.clear()
     #print (single_agent)
         world.append(single_agent)
@@ -41,7 +38,7 @@ def create_world(propsition_number):
 #        world_set = world_set|world[k]
 
     return world
-    
+
 
 def random_initialise(agents_number, propsition_number,world):
     '''
@@ -50,7 +47,7 @@ def random_initialise(agents_number, propsition_number,world):
     single_agent =set()# [set()]*an # use SET as for any agents
    # agents_temp = []
     agent_tuple = [] # belief as tuple(tuple is unchangeable)
-    states = [0]*propsition_number #proposition as list 
+    states = [0]*propsition_number #proposition as list
     agents = [] #A list of sets of tuple
     indexlist = list(range(2**propsition_number))
 #    print(indexlist)
@@ -62,7 +59,7 @@ def random_initialise(agents_number, propsition_number,world):
         agent_tuple.append(states_set)
         single_agent = set (agent_tuple)
         #print (states_set)
-        #print (single_agent)    
+        #print (single_agent)
         agent_tuple.clear()
     #print (single_agent)
         agents.append(single_agent)
@@ -79,8 +76,8 @@ def random_initialise(agents_number, propsition_number,world):
             agents[num] = agents[num]|world[indexlist[k]]
             k=k+1
             agt = [agents[num]]
-   
-            
+
+
     return agents
 
 
@@ -91,7 +88,7 @@ def initialise_agents(agents_number, propsition_number):
     single_agent =set()# [set()]*an # use SET as for any agents
    # agents_temp = []
     agent_tuple = [] # belief as tuple(tuple is unchangeable)
-    states = [0]*propsition_number #proposition as list 
+    states = [0]*propsition_number #proposition as list
     agents = [] #A list of sets of tuple
     # initialise the agents
     for i in range(agents_number):
@@ -101,15 +98,15 @@ def initialise_agents(agents_number, propsition_number):
         agent_tuple.append(states_set)
         single_agent = set (agent_tuple)
         #print (states_set)
-        #print (single_agent)    
+        #print (single_agent)
         agent_tuple.clear()
     #print (single_agent)
         agents.append(single_agent)
     return agents
 '''compute the average cardinality of all agents'''
 def cal_card(agents):
-    sumcard = 0;  
-    N =len(agents) 
+    sumcard = 0;
+    N =len(agents)
     for i in range(N):
         sumcard = sumcard + len (agents[i])
     mean_card = sumcard/N
@@ -125,7 +122,7 @@ def trans2dec(list_set_of_tuple):
                 a = a+x[i]*math.pow(2,len(x)-i-1)
 #            print(a)
             dec.append(a)
-    
+
     return dec
 
 '''compute the average simlarity of all agents'''
@@ -135,16 +132,16 @@ def cal_similarity(agents):
     simtotal = []
     an = len(agents)
     for i in range(an):
-        for j in range (i,an):
+        for j in range (i+1,an):
             Num_inter =len(agents[i]&agents[j])
             Num_uni = len(agents[i]|agents[j])
             similarity.append((Num_inter/Num_uni))
         simtotal.append(similarity)
-    
-    return similarity 
+
+    return similarity
 ''' one time for combine beliefs'''
 def iteration(agents,agent_number, iteration_times):
-    
+
     an = agent_number
     #sn = proposition_number
     N = iteration_times
@@ -152,7 +149,7 @@ def iteration(agents,agent_number, iteration_times):
     iteration=0 # iteration time count
     cardinality  = [];
     while iteration < N:
-        iteration =iteration +1 
+        iteration =iteration +1
         # print (iteration)
         index1 = random.randint(0,an-1)
         index2 = random.randint(0,an-1)
@@ -161,20 +158,20 @@ def iteration(agents,agent_number, iteration_times):
         Intersection = agents[index1]&agents[index2]
         Union = agents[index1]|agents[index2]
     #distance = hammingdis(s,t) # check if overlap exists
-        if (Intersection == set()) : 
-               agents [index1] =Union 
+        if (Intersection == set()) :
+               agents [index1] =Union
                agents [index2] =Union
 
         else:
                agents [index1]=Intersection#intersect if not
                agents [index2]=Intersection
-   
+
         mean_card  = cal_card(agents)
         cardinality.append(mean_card)
         similarity = cal_similarity(agents)
         averagesim.append(sum(similarity)/len(similarity))
     '''
-    print (averagesim)  
+    print (averagesim)
     plt.figure(1)
     plt.plot(averagesim)#, sta)
     #plt.xlabel('Time (ms)')
@@ -200,10 +197,10 @@ start1 = time.time()
 #long running
 #do something other
 start = time.clock()
-    
+
 an = 50 #Number of agents
 sn = 4  #Number of propsitions
-N = 1000 # Times of iterations 
+N = 1000 # Times of iterations
 T = 2
 sim = []
 card = []
@@ -233,12 +230,12 @@ sumsim = [0]*len(averagesim)
 sumcard = [0]*len(cardinality)
 countagt = [0]*int(math.pow(2,sn))
 for i in range (T):
-    
+
     sumsim = (np.sum([sumsim,sim[i]],axis = 0))
     sumcard =(np.sum([sumcard,card[i]],axis = 0))
     countagt[int(convergePos[i])]=countagt[int(convergePos[i])]+1
 
-xaxis = np.arange(1, len(countagt)+1)    
+xaxis = np.arange(1, len(countagt)+1)
 AVEsim=sumsim/T
 AVEcard=sumcard/T
 stdsim =  np.std(sim,axis=0)
@@ -259,10 +256,10 @@ while j < len(stdsim):
     j = j+50
 
 end1 = time.time()
-print("Time1 used:",end1-start1)    
-    
+print("Time1 used:",end1-start1)
+
 elapsed = (time.clock() - start)
-print("Time used:",elapsed)  
+print("Time used:",elapsed)
 filename ='data'+str(an)+'_'+str(sn)+'_'+str(N)+'_'+str(T)+'_e3'
 figurename = str(an)+'_'+str(sn)+'_'+str(N)+'_'+str(T)+'_e3'
 
@@ -274,7 +271,7 @@ plt.ylabel('Similarity')
 plt.xlabel('Iterations')
 plt.title('Similarity-Iteration')
 #plt.legend()
-plt.savefig(path+'Sim'+figurename+'.png',dpi = 600)
+plt.savefig(path+'Sim'+figurename+'.pdf',dpi = 600)
 plt.show()
 plt.figure(2)
 plt.plot(AVEsim,color = 'brown')
@@ -283,7 +280,7 @@ plt.ylabel('Similarity')
 plt.xlabel('Iterations')
 plt.title('Similarity-Iteration with errorbar')
 #plt.legend()
-plt.savefig(path+'SimErr'+figurename+'.png',dpi = 600)
+plt.savefig(path+'SimErr'+figurename+'.pdf',dpi = 600)
 plt.show()
 plt.figure(3)
 plt.plot(AVEcard)
@@ -291,7 +288,7 @@ plt.ylabel('Cardinality')
 plt.xlabel('Iterations')
 plt.title('Cardinality-Iteration')
 #plt.legend()
-plt.savefig(path+'Card'+figurename+'.png',dpi = 600)
+plt.savefig(path+'Card'+figurename+'.pdf',dpi = 600)
 plt.show()
 plt.figure(4)
 plt.plot(AVEcard,color = 'brown')
@@ -300,17 +297,16 @@ plt.ylabel('Cardinality')
 plt.xlabel('Iterations')
 plt.title('Cardinality-Iteration with errorbar')
 #plt.legend()
-plt.savefig(path+'CardErr'+figurename+'.png',dpi = 600)
+plt.savefig(path+'CardErr'+figurename+'.pdf',dpi = 600)
 plt.show()
 plt.figure(5)
-plt.bar(xaxis,countagt,color = 'black',width = 0.4) 
+plt.bar(xaxis,countagt,color = 'black',width = 0.4)
 plt.xlabel('Agents Number')
 plt.ylabel('Times')
-plt.title("Times of covergence") 
-plt.savefig(path+'agt'+figurename+'.png',dpi = 600)
+plt.title("Times of covergence")
+plt.savefig(path+'agt'+figurename+'.pdf',dpi = 600)
 plt.show()
 text_save([AVEsim, AVEcard, stdsim_f,stdcard_f,countagt,elapsed],filename,mode='a')
 f= open(path+filename, 'wb')
 pickle.dump([AVEsim, AVEcard, stdsim_f,stdcard_f,countagt,elapsed], f)
 f.close()
-

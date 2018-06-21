@@ -18,6 +18,7 @@ import copy
 import math
 import time
 import pickle
+import Functions as fc
 '''Function for hamming distance'''
 def minHamming(x,y):#x,y are lists
     hamming = []
@@ -160,7 +161,7 @@ def cal_similarity(agents):
     simtotal = []
     an = len(agents)
     for i in range(an):
-        for j in range (i,an):
+        for j in range (i+1,an):
             Num_inter =len(agents[i]&agents[j])
             Num_uni = len(agents[i]|agents[j])
             similarity.append((Num_inter/Num_uni))
@@ -228,11 +229,11 @@ start1 = time.time()
 #do something other
 start = time.clock()
     
-an = 50 #Number of agents
-sn = 4  #Number of propsitions
-N = 1000 # Times of iterations 
-T = 50
-threshold = 0.5
+an = 100 #Number of agents
+sn = 5 #Number of propsitions
+N = 1800 # Times of iterations 
+T = 1
+threshold = 0.3
 sim = []
 card = []
 AVEsim=[]
@@ -245,11 +246,12 @@ belief_num =[]
 for i in range (T):
     '''when change the initialise method,
     Remember to change the FILENAME and FIGURENAME'''
-    agents = initialise_agents(an, sn)
-    #agents = random_initialise(an, sn,create_world(sn))
+    #agents = initialise_agents(an, sn)
+    agents = random_initialise(an, sn,create_world(sn))
     trans = copy.deepcopy(agents)
     #print (agents)
     (averagesim, cardinality, store) = iterationHamm(trans,an,N,threshold)
+    print(store)
     store2 = deleteDuplicatedElementFromList(store)
     dec = trans2dec(store2)
     pos = copy.deepcopy(dec)
@@ -295,60 +297,12 @@ print("Time1 used:",end1-start1)
     
 elapsed = (time.clock() - start)
 print("Time used:",elapsed)  
-filename ='data'+str(an)+'_'+str(sn)+'_'+str(N)+'_'+str(T)+'_'+str(int(threshold*10))+'single'
-figurename = str(an)+'_'+str(sn)+'_'+str(N)+'_'+str(T)+'_'+str(int(threshold*10))+'single'
+filename ='data'+str(an)+'_'+str(sn)+'_'+str(N)+'_'+str(T)+'_'+str(int(threshold*10))#+'single'
+figurename = str(an)+'_'+str(sn)+'_'+str(N)+'_'+str(T)+'_'+str(int(threshold*10))#+'single'
 
 path = 'figsHamm/'
 
-plt.figure(1)
-plt.plot(AVEsim)
-plt.ylabel('Similarity')
-plt.xlabel('Iterations')
-plt.title('Similarity-Iteration')
-#plt.legend()
-plt.savefig(path+'Sim'+figurename+'.png',dpi = 600)
-plt.show()
-plt.figure(2)
-plt.plot(AVEsim,color = 'brown')
-plt.errorbar(index, AVEsim_f, yerr = stdsim_f, fmt ='o',color = 'brown')
-plt.ylabel('Similarity')
-plt.xlabel('Iterations')
-plt.title('Similarity-Iteration with errorbar')
-#plt.legend()
-plt.savefig(path+'SimErr'+figurename+'.png',dpi = 600)
-plt.show()
-plt.figure(3)
-plt.plot(AVEcard)
-plt.ylabel('Cardinality')
-plt.xlabel('Iterations')
-plt.title('Cardinality-Iteration')
-#plt.legend()
-plt.savefig(path+'Card'+figurename+'.png',dpi = 600)
-plt.show()
-plt.figure(4)
-plt.plot(AVEcard,color = 'brown')
-plt.errorbar(index, AVEcard_f, yerr = stdcard_f, fmt ='o',color = 'brown')
-plt.ylabel('Cardinality')
-plt.xlabel('Iterations')
-plt.title('Cardinality-Iteration with errorbar')
-#plt.legend()
-plt.savefig(path+'CardErr'+figurename+'.png',dpi = 600)
-plt.show()
-plt.figure(5)
-plt.bar(xaxis,countagt,color = 'black',width = 0.4) 
-plt.xlabel('Agent Number')
-plt.ylabel('Times')
-plt.title("Times of covergence") 
-plt.savefig(path+'agt'+figurename+'.png',dpi = 600)
-plt.show()
-#print (belief_num)
-plt.figure(6)
-plt.plot(belief_num,color = 'black') 
-plt.ylabel('Number of Final Beliefs')
-plt.xlabel('Iteration')
-plt.title("Number of Final Beliefs") 
-plt.savefig(path+'numbef'+figurename+'.png',dpi = 600)
-plt.show()
+fc.seriesplot(path,figurename,AVEsim, AVEsim_f,stdsim_f,AVEcard,index,AVEcard_f,stdcard_f,xaxis,countagt,belief_num)
 text_save([AVEsim, AVEcard, stdsim_f,stdcard_f,countagt,elapsed],filename,mode='a')
 f= open(path+filename, 'wb')
 pickle.dump([AVEsim, AVEcard, stdsim_f,stdcard_f,countagt,elapsed], f)

@@ -5,8 +5,105 @@
 \title{Research Proposal}
 \author{Zixuan Liu\thanks{University of Bristol}}
 \geometry{left = 2.5cm, right = 2.5cm,top = 2.5cm}
+\usepackage{pstricks}
+\usepackage{listings}
+\usepackage{color}
+%\usepackage{gnuplot-lua-tikz}
+\usepackage{tikz}
+
+\usepackage{pgf}
+\usepackage[utf8]{inputenc}
+\usetikzlibrary{arrows,automata}
+\usetikzlibrary{positioning}
+
+
+\tikzset{
+	state/.style={
+		rectangle,
+		rounded corners,
+		draw=black, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+\tikzset{
+	on/.style={
+		circle,
+		draw=red, very thick,
+		inner sep=2pt,
+		fill=red!25,
+	},
+}
+
+
+\tikzset{
+	off/.style={
+		circle,
+		draw=blue, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+
+
+
+\tikzset{
+	neuron/.style={
+		rectangle,
+		rounded corners,
+		draw=black, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+
+
+
+\tikzset{
+	area/.style={
+		rectangle,
+		draw=black, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+
+
+\tikzset{
+	gc/.style={
+		rectangle,
+		rounded corners,
+		draw=red, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+
+
+\tikzset{
+	inh/.style={
+		rectangle,
+		rounded corners,
+		draw=blue, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+
+
+
+\tikzset{
+	io/.style={
+		rectangle,
+		draw=green, very thick,
+		inner sep=2pt,
+		text centered,
+	},
+}
+
 \begin{document}
-	\section{Simulation Results with random initialise}
+	\section*{Figures in section~1 to~4 similarity was caled by 1st version(with some problem)} 
+	\section{Simulation Results with random initialise}\label{SRRI}
 	\graphicspath{{figs/}}
 	\subsection{50\_3\_800\_100}
 	Time used: 71.66908250172764${s}$
@@ -382,11 +479,11 @@
 
 
 %%Section min Hamming Distance
-\section{Simulation Results with random initialise combine beliefs based on hamming distance(min)}
+\section{Simulation Results with random initialise combine beliefs based on hamming distance(max)}\label{SRRImax}
 the title: number of agents\_propositions\_iteration\_Times run\_threshold(Hamming distance)
 \graphicspath{{figsMaxHamm/}}
 
-    \subsection{100\_4\_1500\_100\_0.5}
+\subsection{100\_4\_1500\_100\_0.5}
 Time used: 113.40667891238468${s}$
 \begin{figure}[H]
 	\centering
@@ -423,5 +520,146 @@ Time used: 113.40667891238468${s}$
 	\caption{Cardinality with error bar}\label{numbef50_4_1500_50_8_mh}
 \end{figure}
 
+
+\section{Similarity}
+the title: number of agents\_propositions\_iteration\_Times of run\_threshold(Similarity)
+\graphicspath{{figsSimlarity/}}
+
+\subsection{50\_5\_2000\_100\_0.1}
+Time used: 141.5855891666033${s}$
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{agt50_5_2000_100_1}
+	\caption{Where the iterations converge}\label{agt50_5_2000_100_1s}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{Card50_5_2000_100_1}
+	\caption{Cardinality}\label{Card50_5_2000_100_1s}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{CardErr50_5_2000_100_1}
+	\caption{Cardinality with error bar}\label{CardErr50_5_2000_100_1s}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{Sim50_5_2000_100_1}
+	\caption{Similarity}\label{Sim50_5_2000_100_1s}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{SimErr50_5_2000_100_1}
+	\caption{Similarity with error bar}\label{SimErr50_5_2000_100_1s}
+\end{figure}
+\section{Threshold Experiments}
+\graphicspath{{figsThreshold/}}
+\subsection{with min-Hamming distance base}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{yy}
+	\caption{Similarity against threshold.(Experiment condition: 20 times , 50 agents, 5 propositions, 2000 iteration, threshold from 0.1 to 0.9 with 0.2 step) *similarity problems }\label{thre_sim_minhamm}
+\end{figure}
+%
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{cardminhamm}
+	\caption{Cardinality against threshold.(Experiment condition: 20 times, 50 agents, 5 propositions, 2000 iteration, threshold from 0.1 to 0.9 with 0.2 step)}\label{thre_card_minhamm}
+\end{figure}
+%
+\begin{figure}[H]
+	\centering
+    \includegraphics[width=0.9\textwidth]{simi_hammin_100a}
+	\caption{Similarity against threshold.(average of average of 50 times, 100 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.2 step )*similarity problems }
+\end{figure}
+%
+\begin{figure}[H]
+	\centering
+	\include{figsThreshold/Cardbn_hammin_100a}
+	\caption{Numbers of belief and cardinality against threshold.(average of average of 50 times, 100 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.2 step ) }
+\end{figure}
+\begin{figure}[H]
+	\centering
+	%\include{beliefnum50t50a}
+	\include{figsThreshold/bn_hammin_50}
+	\caption{Numbers of belief against threshold.(average of average of 50 times, 50 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.2 step ) }
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\include{figsThreshold/Ave_sim_diff_befs}
+	\caption{Similarity of different final beliefs against threshold.(average of average of 50 times, 100 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.2 step}
+\end{figure}
+%
+\begin{figure}[H]
+	\centering
+	\include{figsThreshold/Ave_sim_diff_befs_ignore1s}
+	\caption{Similarity of different final beliefs against threshold.(ignore singletons)(average of average of 50 times, 100 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.2 step}
+\end{figure}
+%%%Ave_hamming_diff_befs
+\begin{figure}[H]
+	\centering
+	\include{figsThreshold/Ave_hamming_diff_befs}
+	\caption{Hamming distance of different final beliefs against threshold.(ignore singletons)(average of average of 50 times, 100 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.2 step{\color{red} 21 June}}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{dominant_minham}
+	\caption{percentage of Dominant beliefs and number of beliefs against threshold.(average of average of 50 times, 100 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.2 step ) }
+\end{figure}
+%%%
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{dominant_minhameps}
+	\caption{percentage of Dominant beliefs and number of beliefs against threshold.(average of average of 50 times, 100 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.2 step)}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{figureserif}
+	\caption{percentage of Dominant beliefs and number of beliefs against threshold.(average of average of 50 times, 100 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.2 step)}
+\end{figure}
+
+\subsection{with max-Hamming distance base}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{MaxTH_simpdf}
+	\caption{Similarity against threshold.(Experiment condition: average of 20 times, 50 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.02 step)*similarity problems}\label{MaxTH_simpdf}
+\end{figure}
+%
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{MaxTH_cardpdf}
+	\caption{Cardinality against threshold.(Experiment condition: average of 20 times, 50 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.02 step)}\label{MaxTH_cardpdf}
+\end{figure}
+%
+\begin{figure}[H]
+	\centering
+	\include{figsThreshold/Ave_dis_diff_befs_max}
+	\caption{Hamming distance of different final beliefs against threshold.(average of 10 times, 100 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.2 step {\color{red} 21 June}}
+\end{figure}
+%Ave_sim_diff_befs_max
+\begin{figure}[H]
+	\centering
+	\include{figsThreshold/Ave_sim_diff_befs_max}
+	\caption{Similarity of different final beliefs against threshold.(average of 10 times, 100 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.2 step)~{\color{red} 21 June}}
+\end{figure}
+
+\subsection{with Similarity base *similarity problems}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{STh_simpdf}
+	\caption{Similarity against threshold.(Experiment condition: average of 50 times, 50 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.02 step)}\label{STh_simpdf}
+\end{figure}
+%
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\textwidth]{STh_cardpdf}
+	\caption{Cardinality against threshold.(Experiment condition: average of 50 times, 50 agents, 5 propositions, 2000 iteration, threshold from 0 to 1 with 0.02 step)}\label{cardminhamm}
+\end{figure}
 
 \end{document}
